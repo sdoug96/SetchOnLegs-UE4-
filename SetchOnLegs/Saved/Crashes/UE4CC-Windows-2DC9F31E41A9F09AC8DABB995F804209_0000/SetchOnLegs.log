@@ -1,0 +1,1356 @@
+﻿Log file open, 12/17/18 13:22:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SetchOnLegs
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.876928
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.202s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2018.12.17-13.22.37:059][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2018.12.17-13.22.37:060][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.17-13.22.37:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.17-13.22.37:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.17-13.22.37:061][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.17-13.22.37:073][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.17-13.22.37:073][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.17-13.22.37:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.17-13.22.37:075][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.17-13.22.37:076][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.17-13.22.37:076][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.17-13.22.37:076][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.17-13.22.37:076][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.17-13.22.37:076][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:076][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.17-13.22.37:076][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.17-13.22.37:078][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.17-13.22.37:079][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.17-13.22.37:096][  0]LogHAL: Display: Platform has ~ 16 GB [17039638528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.17-13.22.37:096][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.17-13.22.37:096][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.17-13.22.37:097][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.17-13.22.37:097][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.17-13.22.37:098][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.17-13.22.37:101][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.17-13.22.37:101][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.17-13.22.37:101][  0]LogInit: Computer: DESKTOP-PFPGD1F
+[2018.12.17-13.22.37:101][  0]LogInit: User: User
+[2018.12.17-13.22.37:101][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.17-13.22.37:101][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.17-13.22.37:102][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.17-13.22.37:102][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.17-13.22.37:102][  0]LogMemory: Process Physical Memory: 103.49 MB used, 103.50 MB peak
+[2018.12.17-13.22.37:102][  0]LogMemory: Process Virtual Memory: 85.72 MB used, 85.72 MB peak
+[2018.12.17-13.22.37:102][  0]LogMemory: Physical Memory: 3630.37 MB used,  12619.90 MB free, 16250.27 MB total
+[2018.12.17-13.22.37:102][  0]LogMemory: Virtual Memory: 4644.43 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.17-13.22.38:323][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.17-13.22.38:323][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.17-13.22.38:327][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.17-13.22.38:935][  0]LogStreaming: Display: Took  0.612s to InitEngineTextLocalization.
+[2018.12.17-13.22.38:935][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.17-13.22.39:076][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.17-13.22.39:076][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.17-13.22.42:278][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.17-13.22.42:278][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.17-13.22.42:820][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.12.17-13.22.42:820][  0]LogD3D11RHI:       4018/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.17-13.22.42:928][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.17-13.22.42:928][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.17-13.22.42:945][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.17-13.22.42:945][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.17-13.22.42:945][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.17-13.22.42:985][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.17-13.22.42:985][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.12.17-13.22.42:985][  0]LogWindows: EnumDisplayDevices:
+[2018.12.17-13.22.42:986][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.17-13.22.42:986][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.17-13.22.42:987][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.17-13.22.42:987][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.12.17-13.22.42:988][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.12.17-13.22.42:988][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.12.17-13.22.42:988][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.12.17-13.22.42:988][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.12.17-13.22.42:988][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2018.12.17-13.22.43:034][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.17-13.22.43:068][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.17-13.22.44:133][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.17-13.22.44:180][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.17-13.22.44:228][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.17-13.22.44:269][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.17-13.22.44:308][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.17-13.22.44:349][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.17-13.22.44:385][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.17-13.22.44:419][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.17-13.22.44:448][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:567][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-13.22.44:591][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.17-13.22.44:713][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.17-13.22.44:713][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.17-13.22.44:753][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.17-13.22.44:753][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.17-13.22.44:782][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.17-13.22.44:810][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.17-13.22.44:853][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.17-13.22.44:889][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.17-13.22.44:953][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.17-13.22.44:953][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.17-13.22.44:953][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.17-13.22.45:894][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Intermediate/Shaders/WorkingDirectory/1920/).
+[2018.12.17-13.22.45:894][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/D0FD3E274CE098A2EABFD2973FAAE42F/'.
+[2018.12.17-13.22.45:898][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.17-13.22.45:898][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.17-13.22.45:898][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.17-13.22.45:898][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.17-13.22.47:696][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.17-13.22.47:893][  0]LogDerivedDataCache: Loaded boot cache 0.20s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.17-13.22.47:893][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.17-13.22.47:893][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.17-13.22.47:893][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.17-13.22.47:893][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.17-13.22.47:893][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.17-13.22.47:910][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.17-13.22.47:910][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.17-13.22.47:910][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.17-13.22.47:926][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.17-13.22.47:926][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.17-13.22.47:926][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.17-13.22.47:952][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.17-13.22.47:955][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.17-13.22.47:964][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.17-13.22.48:417][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2018.12.17-13.22.48:860][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.17-13.22.49:501][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.17-13.22.49:570][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.17-13.22.49:570][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.17-13.22.49:570][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.17-13.22.49:570][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.17-13.22.49:635][  0]LogNetVersion: SetchOnLegs 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4021931193)
+[2018.12.17-13.22.50:703][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.116485 seconds
+[2018.12.17-13.22.50:710][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.17-13.22.50:710][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.17-13.22.50:710][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.17-13.22.56:218][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.17-13.22.56:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.17-13.23.00:627][  0]SourceControl: Source control is disabled
+[2018.12.17-13.23.00:628][  0]SourceControl: Source control is disabled
+[2018.12.17-13.23.00:713][  0]SourceControl: Source control is disabled
+[2018.12.17-13.23.00:749][  0]SourceControl: Source control is disabled
+[2018.12.17-13.23.02:506][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.17-13.23.02:910][  0]LogOcInput: OculusInput pre-init called
+[2018.12.17-13.23.03:326][  0]LogEngine: Initializing Engine...
+[2018.12.17-13.23.03:329][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.17-13.23.03:331][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.17-13.23.03:331][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.17-13.23.03:331][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.17-13.23.03:331][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.17-13.23.03:680][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.17-13.23.03:739][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.17-13.23.03:814][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-13.23.05:279][  0]LogInit: FAudioDevice initialized.
+[2018.12.17-13.23.05:280][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.17-13.23.05:517][  0]LogDerivedDataCache: Saved boot cache 0.24s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.17-13.23.05:539][  0]LogInit: Texture streaming: Enabled
+[2018.12.17-13.23.05:849][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.17-13.23.05:968][  0]LogInit: Transaction tracking system initialized
+[2018.12.17-13.23.06:319][  0]BlueprintLog: New page: Editor Load
+[2018.12.17-13.23.07:664][  0]LocalizationService: Localization service is disabled
+[2018.12.17-13.23.09:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/' took 0.03s
+[2018.12.17-13.23.09:040][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.17-13.23.09:040][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.17-13.23.09:040][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.17-13.23.09:040][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.17-13.23.09:040][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.17-13.23.09:040][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.17-13.23.09:040][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.17-13.23.10:274][  0]SourceControl: Source control is disabled
+[2018.12.17-13.23.10:274][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/HinceInHell.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-13.23.10:276][  0]LightingResults: New page: Lighting Build
+[2018.12.17-13.23.10:285][  0]MapCheck: New page: Map Check
+[2018.12.17-13.23.10:285][  0]LightingResults: New page: Lighting Build
+[2018.12.17-13.23.10:705][  0]LogAIModule: Creating AISystem for world HinceInHell
+[2018.12.17-13.23.10:722][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.17-13.23.10:747][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.17-13.23.10:748][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2018.12.17-13.23.10:748][  0]LogFileHelpers: Loading map 'HinceInHell' took 0.473
+[2018.12.17-13.23.11:050][  0]LogCollectionManager: Loaded 0 collections in 0.007504 seconds
+[2018.12.17-13.23.11:077][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Collections/' took 0.01s
+[2018.12.17-13.23.11:078][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/Developers/User/Collections/' took 0.00s
+[2018.12.17-13.23.11:078][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/Collections/' took 0.00s
+[2018.12.17-13.23.11:078][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.17-13.23.11:111][  0]LogContentBrowser: Native class hierarchy populated in 0.0330 seconds. Added 2652 classes and 622 folders.
+[2018.12.17-13.23.11:141][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2018.12.17-13.23.11:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:237][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:323][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-13.23.11:860][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.12.17-13.23.11:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-13.23.11:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-13.23.11:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-13.23.11:928][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-13.23.11:939][  0]LogSlate: Took 0.003467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.17-13.23.11:946][  0]LogSlate: Took 0.003560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.17-13.23.11:951][  0]LogSlate: Took 0.003739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.17-13.23.12:058][  0]LogRenderer: Reallocating scene render targets to support 1024x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.17-13.23.12:240][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.12.17-13.23.12:240][  0]LogLoad: (Engine Initialization) Total time: 43.60 seconds
+[2018.12.17-13.23.12:240][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.17-13.23.12:323][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.17-13.23.12:350][  0]LogSlate: Took 0.003432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.17-13.23.12:409][  1]LogAssetRegistry: Asset discovery search completed in 24.0151 seconds
+[2018.12.17-13.23.12:411][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.17-13.23.12:411][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.12.17-13.24.07:761][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.24.08:015][714]LogSlate: Took 0.000691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.17-13.24.08:035][714]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SetchOnLegs/Blueprint/P_MapPawn.P_MapPawn
+[2018.12.17-13.24.08:980][714]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2018.12.17-13.24.09:895][714]LogSlate: Took 0.003433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.17-13.24.12:140][840]LogSlate: Window 'P_MapPawn' being destroyed
+[2018.12.17-13.24.12:149][841]LogRenderer: Reallocating scene render targets to support 1024x864 Format 10 NumSamples 1 (Frame:645).
+[2018.12.17-13.24.15:574][ 42]LogSlate: Took 0.004799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.17-13.25.22:831][508]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SetchOnLegs/Blueprint/BP_MapPOI.BP_MapPOI
+[2018.12.17-13.25.46:087][620]LogSlate: Took 0.007462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.17-13.27.59:340][847]BlueprintLog: New page: Compile BP_MapPOI
+[2018.12.17-13.27.59:823][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Blueprint/BP_MapPOI" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/BP_MapPOI.uasset" SILENT=true
+[2018.12.17-13.27.59:913][865]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/BP_MapPOIE606305B42A2902949AED09AE1B28A88.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/BP_MapPOI.uasset'
+[2018.12.17-13.28.08:580][741]LogAIModule: Creating AISystem for world Map
+[2018.12.17-13.28.08:603][741]LogAssetEditorManager: Opening Asset editor for World /Game/SetchOnLegs/Maps/Map.Map
+[2018.12.17-13.28.08:644][741]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-13.28.08:644][741]LightingResults: New page: Lighting Build
+[2018.12.17-13.28.08:644][741]LoadErrors: New page: Loading map: Map.umap
+[2018.12.17-13.28.08:645][741]MapCheck: New page: Map Check
+[2018.12.17-13.28.08:645][741]LightingResults: New page: Lighting Build
+[2018.12.17-13.28.08:686][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.17-13.28.08:743][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.17-13.28.08:743][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2018.12.17-13.28.08:743][741]LogFileHelpers: Loading map 'Map' took 0.101
+[2018.12.17-13.28.30:380][949]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI2)
+[2018.12.17-13.28.33:299][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.28.40:649][782]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI2)
+[2018.12.17-13.28.41:393][860]Cmd: DELETE
+[2018.12.17-13.28.41:393][860]Cmd: ACTOR DELETE
+[2018.12.17-13.28.41:403][860]LogEditorActor: Deleted Actor: BP_MapPOI_C
+[2018.12.17-13.28.41:441][860]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.12.17-13.28.42:938][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI3)
+[2018.12.17-13.28.43:005][ 23]Cmd: DELETE
+[2018.12.17-13.28.43:005][ 23]Cmd: ACTOR DELETE
+[2018.12.17-13.28.43:008][ 23]LogEditorActor: Deleted Actor: BP_MapPOI_C
+[2018.12.17-13.28.43:048][ 23]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.17-13.28.52:443][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.28.55:582][361]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI)
+[2018.12.17-13.29.10:122][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.17-13.29.10:698][749]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI)
+[2018.12.17-13.29.20:234][643]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI4)
+[2018.12.17-13.29.50:352][539]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI3)
+[2018.12.17-13.30.11:536][608]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI6)
+[2018.12.17-13.30.13:050][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.30.54:169][409]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI4)
+[2018.12.17-13.30.56:460][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.00:842][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.08:103][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.12:607][229]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI)
+[2018.12.17-13.31.14:951][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.19:486][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.21:943][140]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI2)
+[2018.12.17-13.31.24:705][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.28:426][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.31:150][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.36:823][570]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI5)
+[2018.12.17-13.31.39:092][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.44:927][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.31.52:349][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI3)
+[2018.12.17-13.31.53:810][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.32.01:023][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-13.32.02:442][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-13.32.02:714][ 15]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/MapDE0FBA604A689274F2DCE38F93C8AFD6.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map.umap'
+[2018.12.17-13.32.02:747][ 15]LogFileHelpers: Saving map 'Map' took 0.288
+[2018.12.17-13.33.37:127][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.33.41:932][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.17-13.33.43:312][913]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI3)
+[2018.12.17-13.33.45:937][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.35.05:462][478]LogEditorViewport: Clicking on Actor (LMB): P_MapPawn_C (P_MapPawn)
+[2018.12.17-13.35.09:114][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-13.35.12:281][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.35.12:641][109]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/MapCB71F02642ADC57275DD62AB45B9E324.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map.umap'
+[2018.12.17-13.35.12:674][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Maps/Map_BuiltData" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map_BuiltData.uasset" SILENT=true
+[2018.12.17-13.35.12:753][109]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Map_BuiltDataEAF9F709478C0D5E6A880C9D2D739997.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map_BuiltData.uasset'
+[2018.12.17-13.35.19:246][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-13.37.22:840][662]BlueprintLog: New page: Compile P_MapPawn
+[2018.12.17-13.37.23:352][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Blueprint/P_MapPawn" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset" SILENT=true
+[2018.12.17-13.37.23:426][686]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/P_MapPawn486D295441BAB495D8DA788B54E636EF.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset'
+[2018.12.17-13.40.53:042][324]BlueprintLog: New page: Compile P_MapPawn
+[2018.12.17-13.40.53:594][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Blueprint/P_MapPawn" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset" SILENT=true
+[2018.12.17-13.40.53:666][344]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/P_MapPawn0688111D499B0A0BB76DA0847B0939E9.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset'
+[2018.12.17-13.41.46:728][934]LogRenderer: Reallocating scene render targets to support 1280x888 Format 10 NumSamples 1 (Frame:20195).
+[2018.12.17-13.41.48:807][ 83]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Map2CCB79344E3EFC3B7A87AE8D10FEFE65.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map.umap'
+[2018.12.17-13.41.48:832][ 83]LogFileHelpers: Saving map 'Map' took 0.230
+[2018.12.17-13.42.22:413][872]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.17-13.42.22:655][876]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SetchOnLegs
+[2018.12.17-13.42.22:655][876]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.17-13.42.22:655][876]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2018.12.17-13.42.22:655][876]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.17-13.42.22:659][876]LogTemp: BranchPath = DESKTOP-PFPGD1F/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-PFPGD1F/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2018.12.17-13.42.22:677][877]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.17-13.43.33:249][121]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.17-13.43.33:257][121]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.17-13.47.32:307][396]BlueprintLog: New page: Compile P_MapPawn
+[2018.12.17-13.47.32:858][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Blueprint/P_MapPawn" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset" SILENT=true
+[2018.12.17-13.47.32:926][431]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/P_MapPawn3D02A9C54FC575E37094B69191DDCEB2.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset'
+[2018.12.17-13.51.21:989][491]BlueprintLog: New page: Compile P_MapPawn
+[2018.12.17-13.51.22:584][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Blueprint/P_MapPawn" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset" SILENT=true
+[2018.12.17-13.51.22:645][531]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/P_MapPawn1496F88E44637223005FA494AFD96A61.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset'
+[2018.12.17-13.53.10:968][  8]BlueprintLog: New page: Compile P_MapPawn
+[2018.12.17-13.53.11:482][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Blueprint/P_MapPawn" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset" SILENT=true
+[2018.12.17-13.53.11:553][ 26]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/P_MapPawn554519674B4D0D9C16CB25A24A30B202.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset'
+[2018.12.17-13.53.21:624][129]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/MapD8FBBB8748A2CD060B810B84900F16AF.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map.umap'
+[2018.12.17-13.53.21:650][129]LogFileHelpers: Saving map 'Map' took 0.227
+[2018.12.17-14.07.26:877][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.07.27:949][ 79]LogAIModule: Creating AISystem for world HinceInHell
+[2018.12.17-14.07.27:955][ 79]LogAssetEditorManager: Opening Asset editor for World /Game/SetchOnLegs/Maps/HinceInHell.HinceInHell
+[2018.12.17-14.07.27:985][ 79]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/HinceInHell.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-14.07.27:985][ 79]LightingResults: New page: Lighting Build
+[2018.12.17-14.07.27:986][ 79]LoadErrors: New page: Loading map: HinceInHell.umap
+[2018.12.17-14.07.28:014][ 79]MapCheck: New page: Map Check
+[2018.12.17-14.07.28:014][ 79]LightingResults: New page: Lighting Build
+[2018.12.17-14.07.28:046][ 79]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.17-14.07.28:096][ 79]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.17-14.07.28:097][ 79]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2018.12.17-14.07.28:097][ 79]LogFileHelpers: Loading map 'HinceInHell' took 0.112
+[2018.12.17-14.07.36:364][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-14.07.39:845][427]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_85)
+[2018.12.17-14.07.41:419][611]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_86)
+[2018.12.17-14.07.42:180][698]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_87)
+[2018.12.17-14.07.43:543][854]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_88)
+[2018.12.17-14.07.44:202][929]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_89)
+[2018.12.17-14.07.44:644][978]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_90)
+[2018.12.17-14.07.51:348][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.07.56:015][321]Cmd: TRANSACTION UNDO
+[2018.12.17-14.07.56:015][321]LogEditorTransaction: Undo Move Actors
+[2018.12.17-14.07.59:368][707]LogEditorViewport: Clicking Background
+[2018.12.17-14.08.04:297][293]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_92)
+[2018.12.17-14.08.05:180][395]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_93)
+[2018.12.17-14.08.05:621][444]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_94)
+[2018.12.17-14.08.05:961][481]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_95)
+[2018.12.17-14.08.06:485][540]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (SetchOnLegsTileSheet_Sprite_96)
+[2018.12.17-14.08.12:102][204]Cmd: SELECT NONE
+[2018.12.17-14.08.14:089][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-14.08.14:779][521]LogEditorViewport: Clicking Background
+[2018.12.17-14.08.19:174][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.09.04:807][458]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Documents\SetchOnLegs\SetchOnLegs\Source\HinceInHell.png)
+[2018.12.17-14.09.04:821][458]LogTexture: Display: Building textures: HinceInHell (BGRA8, 760X1013)
+[2018.12.17-14.09.15:878][313]LogSlate: Window 'Extract sprites' being destroyed
+[2018.12.17-14.09.22:438][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-14.09.23:487][917]Cmd: TRANSACTION UNDO
+[2018.12.17-14.09.23:487][917]LogEditorTransaction: Undo Clicking Background
+[2018.12.17-14.09.48:838][871]LogEditorViewport: Clicking Background
+[2018.12.17-14.09.49:524][951]Cmd: SELECT NONE
+[2018.12.17-14.09.50:714][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.09.50:772][ 99]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-14.09.50:791][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.09.50:791][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-14.09.50:792][ 99]PIE: New page: PIE session: HinceInHell (17 Dec 2018 14:09:50)
+[2018.12.17-14.09.50:804][ 99]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell
+[2018.12.17-14.09.50:808][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003459s)
+[2018.12.17-14.09.50:809][ 99]LogAIModule: Creating AISystem for world HinceInHell
+[2018.12.17-14.09.50:809][ 99]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2018.12.17-14.09.50:809][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/HinceInHell.HinceInHell to /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell (0.004825s)
+[2018.12.17-14.09.50:854][ 99]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-14.09.50:954][ 99]LogInit: FAudioDevice initialized.
+[2018.12.17-14.09.50:977][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-14.09.51:096][ 99]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-14.09.51:102][ 99]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell up for play (max tick rate 0) at 2018.12.17-14.09.51
+[2018.12.17-14.09.51:102][ 99]LogWorld: Bringing up level for play took: 0.003471
+[2018.12.17-14.09.51:147][ 99]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0024 seconds. Added 20 classes and 0 folders.
+[2018.12.17-14.09.51:162][ 99]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell 0.505
+[2018.12.17-14.09.51:162][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.10.19:379][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.10.19:379][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-14.10.19:397][206]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-14.10.19:444][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-14.10.19:444][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.10.19:494][207]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.17-14.10.20:537][304]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (HinceInHell_Sprite_0)
+[2018.12.17-14.10.34:659][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-14.10.35:721][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-14.10.35:982][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell31334B534236803EFBF0F48EFF96CE84.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/HinceInHell.umap'
+[2018.12.17-14.10.36:005][ 97]LogFileHelpers: Saving map 'HinceInHell' took 0.267
+[2018.12.17-14.10.36:101][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell8DCD03DC424E29AAD27425ABC0229494.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell.uasset'
+[2018.12.17-14.10.36:162][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_0C4395B184B039776E506D3802C55D63C.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_0.uasset'
+[2018.12.17-14.10.36:191][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_1314CC183488C7BF7E5F6D19A74999C24.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_1.uasset'
+[2018.12.17-14.10.36:223][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_2E0D9B5C14FF8C9B9B5D4FDB820BD3A51.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_2.uasset'
+[2018.12.17-14.10.36:254][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_3E128EC784D106B2227B01D9075F94B94.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_3.uasset'
+[2018.12.17-14.10.36:284][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_4DA6BC63B450C18E9C6A22E821E6CCF3D.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_4.uasset'
+[2018.12.17-14.10.36:314][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_587C67D1D47D058D5A0E896A3B305E825.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_5.uasset'
+[2018.12.17-14.10.36:344][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_63333DA0B45EFFD9E4E53669AECBB8E4A.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_6.uasset'
+[2018.12.17-14.10.36:373][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_7AA33047440F34B2F23129A9E7C8C8BE1.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_7.uasset'
+[2018.12.17-14.10.36:403][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_82DAB66754BA2EC8448675DA9F892B8A2.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_8.uasset'
+[2018.12.17-14.10.36:433][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_955167B194983959B241E61856707E6CA.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_9.uasset'
+[2018.12.17-14.10.36:459][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_10BFADF7074B207CA333CF2AB82FC9CE37.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_10.uasset'
+[2018.12.17-14.10.36:485][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_1118F8B1F3497C1D9163CB96A24FB17C28.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_11.uasset'
+[2018.12.17-14.10.36:512][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_12AC581166477A76B66F2C37BEDDDABB70.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_12.uasset'
+[2018.12.17-14.10.36:538][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_13D77A6B644697F105384CE392B13E568F.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_13.uasset'
+[2018.12.17-14.10.36:568][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_146A294182496FDE7DDED2B8818AABFF86.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_14.uasset'
+[2018.12.17-14.10.36:595][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_150A58DCE84BA6BD8EF1CF18951FCA9985.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_15.uasset'
+[2018.12.17-14.10.36:623][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_16049A3FC14CC0B98A1CA893A633685735.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_16.uasset'
+[2018.12.17-14.10.36:652][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_17C3C6B0FD4822C850D36B1AB26ACC4A47.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_17.uasset'
+[2018.12.17-14.10.36:679][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_1879843F4C480F5D1510D1DEBE2A432B37.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_18.uasset'
+[2018.12.17-14.10.36:707][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_1944EA83B64999DECE7D9A16B4FBA42D0C.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_19.uasset'
+[2018.12.17-14.10.36:734][ 97]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_2099450B524E9A51976CBC9ABE59C2990B.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_20.uasset'
+[2018.12.17-14.10.54:230][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.10.54:390][160]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_16.HinceInHell_Sprite_16
+[2018.12.17-14.11.51:534][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.12.01:556][111]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-14.12.01:574][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.12.01:574][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-14.12.01:574][111]PIE: New page: PIE session: HinceInHell (17 Dec 2018 14:12:01)
+[2018.12.17-14.12.01:574][111]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell
+[2018.12.17-14.12.01:578][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003862s)
+[2018.12.17-14.12.01:579][111]LogAIModule: Creating AISystem for world HinceInHell
+[2018.12.17-14.12.01:579][111]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2018.12.17-14.12.01:579][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/HinceInHell.HinceInHell to /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell (0.005378s)
+[2018.12.17-14.12.01:616][111]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-14.12.01:708][111]LogInit: FAudioDevice initialized.
+[2018.12.17-14.12.01:729][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-14.12.01:824][111]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-14.12.01:828][111]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell up for play (max tick rate 0) at 2018.12.17-14.12.01
+[2018.12.17-14.12.01:829][111]LogWorld: Bringing up level for play took: 0.002891
+[2018.12.17-14.12.01:853][111]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell 1.195
+[2018.12.17-14.12.01:854][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.12.18:242][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.12.18:243][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-14.12.18:260][908]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-14.12.18:304][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-14.12.18:305][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.12.18:356][909]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.17-14.12.22:053][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.12.31:275][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.12.43:882][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.12.52:203][848]LogEditorViewport: Clicking on Actor (context menu): PostProcessVolume (PostProcessVolume)
+[2018.12.17-14.12.52:244][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-14.12.54:053][ 52]LogEditorViewport: Clicking Background
+[2018.12.17-14.13.48:620][807]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.12.17-14.13.49:804][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.15.17:535][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-14.16.18:591][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.17.11:523][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.17.11:600][315]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.17-14.17.13:394][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.17.13:719][522]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell0970C2764CCD8CA315FD7BA403FA90E6.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/HinceInHell.umap'
+[2018.12.17-14.17.13:832][522]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_BuiltData7679BE5C40543365DB1637AE575CCBEF.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/HinceInHell_BuiltData.uasset'
+[2018.12.17-14.17.15:526][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.17.15:950][724]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-14.17.15:967][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.17.15:967][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-14.17.15:967][724]PIE: New page: PIE session: HinceInHell (17 Dec 2018 14:17:15)
+[2018.12.17-14.17.15:967][724]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell
+[2018.12.17-14.17.15:973][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005471s)
+[2018.12.17-14.17.15:974][724]LogAIModule: Creating AISystem for world HinceInHell
+[2018.12.17-14.17.15:974][724]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2018.12.17-14.17.15:974][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/HinceInHell.HinceInHell to /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell (0.006875s)
+[2018.12.17-14.17.16:009][724]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-14.17.16:097][724]LogInit: FAudioDevice initialized.
+[2018.12.17-14.17.16:115][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-14.17.16:254][724]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-14.17.16:260][724]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell up for play (max tick rate 0) at 2018.12.17-14.17.16
+[2018.12.17-14.17.16:262][724]LogWorld: Bringing up level for play took: 0.004614
+[2018.12.17-14.17.16:290][724]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell -0.368
+[2018.12.17-14.17.16:291][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.17.45:181][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.17.45:181][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-14.17.45:199][615]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-14.17.45:244][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-14.17.45:244][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.17.45:300][616]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.17-14.17.56:214][885]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.12.17-14.18.02:877][612]Cmd: SELECT NONE
+[2018.12.17-14.19.38:774][822]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (HinceInHell_Sprite_0)
+[2018.12.17-14.19.51:746][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.19.51:887][260]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_0.HinceInHell_Sprite_0
+[2018.12.17-14.20.03:483][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.21.52:445][567]Cmd: TRANSACTION UNDO
+[2018.12.17-14.21.52:445][567]LogEditorTransaction: Undo Modification in Viewport
+[2018.12.17-14.22.59:853][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.23.00:024][564]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_05ED0F2954804C80F83527BBC7E1C162F.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_0.uasset'
+[2018.12.17-14.23.20:804][ 10]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Sprite_0369725904BEE6DD4C8B340B084CC0D1E.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/HinceInHell/HinceInHell_Sprite_0.uasset'
+[2018.12.17-14.27.42:840][363]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Auto15A1BA00A411D996440152F9D77AF1DDD.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Autosaves/Game/SetchOnLegs/Maps/HinceInHell_Auto1.umap'
+[2018.12.17-14.27.42:844][363]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SetchOnLegs/Maps/HinceInHell' took 0.247
+[2018.12.17-14.27.42:844][363]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.247
+[2018.12.17-14.32.57:331][978]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (HinceInHell_Sprite_0)
+[2018.12.17-14.33.13:977][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-14.33.14:036][865]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-14.33.14:053][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.33.14:053][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-14.33.14:054][865]PIE: New page: PIE session: HinceInHell (17 Dec 2018 14:33:14)
+[2018.12.17-14.33.14:054][865]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell
+[2018.12.17-14.33.14:058][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004374s)
+[2018.12.17-14.33.14:059][865]LogAIModule: Creating AISystem for world HinceInHell
+[2018.12.17-14.33.14:059][865]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2018.12.17-14.33.14:059][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/HinceInHell.HinceInHell to /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell (0.005750s)
+[2018.12.17-14.33.14:099][865]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-14.33.14:195][865]LogInit: FAudioDevice initialized.
+[2018.12.17-14.33.14:209][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-14.33.14:320][865]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-14.33.14:325][865]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell up for play (max tick rate 0) at 2018.12.17-14.33.14
+[2018.12.17-14.33.14:326][865]LogWorld: Bringing up level for play took: 0.003903
+[2018.12.17-14.33.14:348][865]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell -0.31
+[2018.12.17-14.33.14:349][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.34.02:223][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.34.02:224][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-14.34.02:242][672]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-14.34.02:274][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-14.34.02:275][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell' with GeneratedClass '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/HinceInHell.HinceInHell:PersistentLevel.HinceInHell'
+[2018.12.17-14.34.02:362][673]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.17-14.34.04:120][874]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (HinceInHell_Sprite_0)
+[2018.12.17-14.34.04:842][952]Cmd: TRANSACTION UNDO
+[2018.12.17-14.34.04:842][952]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.17-14.34.05:281][993]Cmd: TRANSACTION UNDO
+[2018.12.17-14.34.05:281][993]LogEditorTransaction: Undo Scale Actors
+[2018.12.17-14.34.05:616][ 31]Cmd: TRANSACTION UNDO
+[2018.12.17-14.34.05:616][ 31]LogEditorTransaction: Undo Scale Actors
+[2018.12.17-14.34.06:179][ 97]Cmd: TRANSACTION UNDO
+[2018.12.17-14.34.06:179][ 97]LogEditorTransaction: Undo Scale Actors
+[2018.12.17-14.38.31:683][224]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHell_Auto2DD5EFE034EEC0EA245B3A480BEA28F6A.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Autosaves/Game/SetchOnLegs/Maps/HinceInHell_Auto2.umap'
+[2018.12.17-14.38.31:691][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SetchOnLegs/Maps/HinceInHell' took 0.261
+[2018.12.17-14.38.31:691][224]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.261
+[2018.12.17-15.05.59:116][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-15.06.00:029][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-15.06.00:272][402]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHellD0E156EF40DBA28393DF559C582FC5B6.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/HinceInHell.umap'
+[2018.12.17-15.06.00:298][402]LogFileHelpers: Saving map 'HinceInHell' took 0.253
+[2018.12.17-15.06.06:073][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.06.10:202][991]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.06.10:208][991]LogAssetEditorManager: Opening Asset editor for World /Game/SetchOnLegs/Maps/Map.Map
+[2018.12.17-15.06.10:235][991]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-15.06.10:235][991]LightingResults: New page: Lighting Build
+[2018.12.17-15.06.10:235][991]LoadErrors: New page: Loading map: Map.umap
+[2018.12.17-15.06.10:236][991]MapCheck: New page: Map Check
+[2018.12.17-15.06.10:236][991]LightingResults: New page: Lighting Build
+[2018.12.17-15.06.10:272][991]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.17-15.06.10:318][991]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.17-15.06.10:318][991]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2018.12.17-15.06.10:318][991]LogFileHelpers: Loading map 'Map' took 0.083
+[2018.12.17-15.06.11:495][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.06.11:562][ 64]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.06.11:590][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.06.11:590][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.06.11:590][ 64]PIE: New page: PIE session: Map (17 Dec 2018 15:06:11)
+[2018.12.17-15.06.11:590][ 64]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.06.11:594][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003558s)
+[2018.12.17-15.06.11:594][ 64]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.06.11:595][ 64]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2018.12.17-15.06.11:595][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.005096s)
+[2018.12.17-15.06.11:634][ 64]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.06.11:727][ 64]LogInit: FAudioDevice initialized.
+[2018.12.17-15.06.11:747][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.06.11:864][ 64]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.06.11:868][ 64]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.06.11
+[2018.12.17-15.06.11:868][ 64]LogWorld: Bringing up level for play took: 0.001717
+[2018.12.17-15.06.11:889][ 64]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map 1.232
+[2018.12.17-15.06.11:890][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.06.14:421][205]LogNet: Browse: /Game/SetchOnLegs/Maps/HinceInHell
+[2018.12.17-15.06.14:421][205]LogLoad: LoadMap: /Game/SetchOnLegs/Maps/HinceInHell
+[2018.12.17-15.06.14:490][205]LogAIModule: Creating AISystem for world HinceInHell
+[2018.12.17-15.06.14:491][205]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.06.14:495][205]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell up for play (max tick rate 60) at 2018.12.17-15.06.14
+[2018.12.17-15.06.14:495][205]LogWorld: Bringing up level for play took: 0.003009
+[2018.12.17-15.06.14:497][205]LogLoad: Took 0.075386 seconds to LoadMap(/Game/SetchOnLegs/Maps/HinceInHell)
+[2018.12.17-15.06.15:662][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.06.15:663][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.06.15:678][275]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.06.15:724][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.06.15:724][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.06.15:779][276]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.17-15.06.16:956][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.06.17:040][345]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.06.17:061][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.06.17:061][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.06.17:061][345]PIE: New page: PIE session: Map (17 Dec 2018 15:06:17)
+[2018.12.17-15.06.17:061][345]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.06.17:064][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003280s)
+[2018.12.17-15.06.17:065][345]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.06.17:065][345]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2018.12.17-15.06.17:065][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.004215s)
+[2018.12.17-15.06.17:105][345]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.06.17:194][345]LogInit: FAudioDevice initialized.
+[2018.12.17-15.06.17:209][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.06.17:302][345]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.06.17:304][345]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.06.17
+[2018.12.17-15.06.17:304][345]LogWorld: Bringing up level for play took: 0.000720
+[2018.12.17-15.06.17:321][345]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map 0.664
+[2018.12.17-15.06.17:322][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.06.31:173][125]LogNet: Browse: /Game/SetchOnLegs/Maps/HinceInHell
+[2018.12.17-15.06.31:173][125]LogLoad: LoadMap: /Game/SetchOnLegs/Maps/HinceInHell
+[2018.12.17-15.06.31:233][125]LogAIModule: Creating AISystem for world HinceInHell
+[2018.12.17-15.06.31:233][125]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.06.31:237][125]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_HinceInHell.HinceInHell up for play (max tick rate 60) at 2018.12.17-15.06.31
+[2018.12.17-15.06.31:238][125]LogWorld: Bringing up level for play took: 0.003382
+[2018.12.17-15.06.31:239][125]LogLoad: Took 0.065871 seconds to LoadMap(/Game/SetchOnLegs/Maps/HinceInHell)
+[2018.12.17-15.06.35:955][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.06.35:956][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.06.35:970][408]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.06.36:016][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.06.36:017][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.06.36:091][409]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.17-15.06.41:473][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-15.06.49:585][214]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.17-15.07.01:396][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.07.07:927][309]BlueprintLog: New page: Compile P_MapPawn
+[2018.12.17-15.07.08:391][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Blueprint/P_MapPawn" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset" SILENT=true
+[2018.12.17-15.07.08:461][323]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/P_MapPawn43C48965478A30DBD3C196A083C2FE79.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset'
+[2018.12.17-15.07.11:936][530]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.07.11:965][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.07.11:965][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.07.11:965][530]PIE: New page: PIE session: Map (17 Dec 2018 15:07:11)
+[2018.12.17-15.07.11:965][530]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.07.11:969][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003693s)
+[2018.12.17-15.07.11:970][530]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.07.11:970][530]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2018.12.17-15.07.11:970][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.004722s)
+[2018.12.17-15.07.12:007][530]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.07.12:090][530]LogInit: FAudioDevice initialized.
+[2018.12.17-15.07.12:096][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.07.12:182][530]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.07.12:185][530]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.07.12
+[2018.12.17-15.07.12:186][530]LogWorld: Bringing up level for play took: 0.002320
+[2018.12.17-15.07.12:203][530]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map -0.454
+[2018.12.17-15.07.12:204][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.07.37:143][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.07.37:143][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.07.37:159][ 17]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.07.37:206][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.07.37:206][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.07.37:272][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.17-15.08.44:587][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (POI_Home)
+[2018.12.17-15.12.53:949][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI2)
+[2018.12.17-15.13.04:464][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.13.14:039][226]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI5)
+[2018.12.17-15.13.19:796][570]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (POI_Home)
+[2018.12.17-15.13.21:600][677]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI2)
+[2018.12.17-15.13.23:605][796]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI5)
+[2018.12.17-15.13.25:844][929]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI)
+[2018.12.17-15.13.30:709][218]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI2)
+[2018.12.17-15.13.37:101][598]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI5)
+[2018.12.17-15.13.38:406][675]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI4)
+[2018.12.17-15.13.44:118][ 15]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI5)
+[2018.12.17-15.13.48:229][259]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI6)
+[2018.12.17-15.13.53:862][595]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI2)
+[2018.12.17-15.14.00:373][983]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI5)
+[2018.12.17-15.14.02:622][116]Cmd: SELECT NONE
+[2018.12.17-15.14.07:023][379]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (POI_Home)
+[2018.12.17-15.15.37:656][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-15.15.58:066][413]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Documents\SetchOnLegs\SetchOnLegs\Source\MapTerrain.png)
+[2018.12.17-15.15.58:070][413]LogTexture: Display: Building textures: MapTerrain (BGRA8, 225X225)
+[2018.12.17-15.16.00:143][434]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Documents\SetchOnLegs\SetchOnLegs\Source\MapFire.jpg)
+[2018.12.17-15.16.00:147][434]LogTexture: Display: Building textures: MapFire (AutoDXT, 640X160)
+[2018.12.17-15.16.11:091][902]LogSlate: Window 'Extract sprites' being destroyed
+[2018.12.17-15.16.13:490][974]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.17-15.16.37:620][394]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/MapTerrainTexBBD5CE30469BCC114E977C9CB82D98C8.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/Map/Map/MapTerrainTex.uasset'
+[2018.12.17-15.16.43:339][710]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/MapTerrainFDB6A3AD43274F1CB1697C8B2C5CB9B1.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/Map/Map/MapTerrain.uasset'
+[2018.12.17-15.16.45:003][789]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/SetchOnLegs/Sprites/Map/Map/MapTerrain.MapTerrain
+[2018.12.17-15.16.48:969][ 11]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/MapTerrainAA6079CC47FDDBAC295E1EB27B2C0D54.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/Map/Map/MapTerrain.uasset'
+[2018.12.17-15.16.54:215][300]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Map07BEADA749E65906E16D32AD86914C85.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map.umap'
+[2018.12.17-15.16.54:257][300]LogFileHelpers: Saving map 'Map' took 0.245
+[2018.12.17-15.17.22:622][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.17-15.17.25:796][177]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MapTerrain)
+[2018.12.17-15.17.26:965][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.17.36:507][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.17-15.17.37:396][867]Cmd: DELETE
+[2018.12.17-15.17.37:396][867]Cmd: ACTOR DELETE
+[2018.12.17-15.17.37:397][867]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-15.17.37:425][867]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.12.17-15.17.40:365][ 44]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MapTerrain)
+[2018.12.17-15.18.11:710][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.18.11:777][920]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.18.11:790][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.18.11:790][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.18.11:790][920]PIE: New page: PIE session: Map (17 Dec 2018 15:18:11)
+[2018.12.17-15.18.11:790][920]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.18.11:792][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003297s)
+[2018.12.17-15.18.11:793][920]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.18.11:794][920]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.12.17-15.18.11:794][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.004538s)
+[2018.12.17-15.18.11:834][920]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.18.11:925][920]LogInit: FAudioDevice initialized.
+[2018.12.17-15.18.11:941][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.18.12:042][920]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.18.12:046][920]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.18.12
+[2018.12.17-15.18.12:047][920]LogWorld: Bringing up level for play took: 0.002648
+[2018.12.17-15.18.12:069][920]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map -0.589
+[2018.12.17-15.18.12:070][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.18.14:253][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.18.14:254][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.18.14:278][ 41]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.18.14:328][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.18.14:328][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.18.14:387][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.17-15.18.23:363][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.18.34:234][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.18.34:767][237]BlueprintLog: New page: Compile P_MapPawn
+[2018.12.17-15.18.35:416][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetchOnLegs/Blueprint/P_MapPawn" FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset" SILENT=true
+[2018.12.17-15.18.35:488][259]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/P_MapPawn3138168240B47C66B3FBBA8321399FF3.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/P_MapPawn.uasset'
+[2018.12.17-15.18.41:899][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.18.43:760][737]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Map231CB46F41AED0E7B8183C992154AD6F.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/Map.umap'
+[2018.12.17-15.18.43:790][737]LogFileHelpers: Saving map 'Map' took 0.220
+[2018.12.17-15.18.44:552][780]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.18.44:567][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.18.44:567][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.18.44:567][780]PIE: New page: PIE session: Map (17 Dec 2018 15:18:44)
+[2018.12.17-15.18.44:567][780]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.18.44:571][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003433s)
+[2018.12.17-15.18.44:572][780]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.18.44:572][780]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2018.12.17-15.18.44:572][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.004870s)
+[2018.12.17-15.18.44:607][780]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.18.44:689][780]LogInit: FAudioDevice initialized.
+[2018.12.17-15.18.44:702][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.18.44:803][780]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.18.44:807][780]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.18.44
+[2018.12.17-15.18.44:807][780]LogWorld: Bringing up level for play took: 0.001803
+[2018.12.17-15.18.44:827][780]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map 0.169
+[2018.12.17-15.18.44:828][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.18.57:562][535]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.18.57:567][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.18.57:605][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.18.57:605][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.18.57:681][536]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.17-15.19.01:569][763]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MapTerrain)
+[2018.12.17-15.19.11:396][342]Cmd: SELECT NONE
+[2018.12.17-15.19.15:446][584]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI2)
+[2018.12.17-15.19.17:107][681]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MapTerrain)
+[2018.12.17-15.19.21:476][941]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI4)
+[2018.12.17-15.19.26:003][210]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI5)
+[2018.12.17-15.19.31:489][536]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI)
+[2018.12.17-15.19.34:428][710]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MapTerrain)
+[2018.12.17-15.19.35:615][779]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI6)
+[2018.12.17-15.19.41:367][121]Cmd: SELECT NONE
+[2018.12.17-15.19.47:288][468]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (POI_Home)
+[2018.12.17-15.19.49:752][613]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (BP_MapPOI)
+[2018.12.17-15.19.53:815][852]Cmd: SELECT NONE
+[2018.12.17-15.19.56:909][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.19.56:958][ 40]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.19.56:971][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.19.56:971][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.19.56:971][ 40]PIE: New page: PIE session: Map (17 Dec 2018 15:19:56)
+[2018.12.17-15.19.56:971][ 40]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.19.56:974][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003199s)
+[2018.12.17-15.19.56:975][ 40]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.19.56:976][ 40]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2018.12.17-15.19.56:976][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.004561s)
+[2018.12.17-15.19.57:015][ 40]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.19.57:092][ 40]LogInit: FAudioDevice initialized.
+[2018.12.17-15.19.57:099][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.19.57:191][ 40]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.19.57:194][ 40]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.19.57
+[2018.12.17-15.19.57:195][ 40]LogWorld: Bringing up level for play took: 0.001577
+[2018.12.17-15.19.57:214][ 40]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map 0.557
+[2018.12.17-15.19.57:215][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.20.15:615][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.20.15:615][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.20.15:641][132]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.20.15:688][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.20.15:688][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.20.15:787][133]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.17-15.29.15:579][489]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Map_Auto313232C394BE7A4C96E84F29B88673807.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Autosaves/Game/SetchOnLegs/Maps/Map_Auto3.umap'
+[2018.12.17-15.29.15:583][489]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SetchOnLegs/Maps/Map' took 0.233
+[2018.12.17-15.29.15:583][489]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2018.12.17-15.36.56:987][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.36.57:070][167]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.36.57:084][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.36.57:084][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.36.57:084][167]PIE: New page: PIE session: Map (17 Dec 2018 15:36:57)
+[2018.12.17-15.36.57:084][167]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.36.57:087][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003301s)
+[2018.12.17-15.36.57:088][167]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.36.57:089][167]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2018.12.17-15.36.57:089][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.004561s)
+[2018.12.17-15.36.57:125][167]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.36.57:218][167]LogInit: FAudioDevice initialized.
+[2018.12.17-15.36.57:238][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.36.57:348][167]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.36.57:353][167]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.36.57
+[2018.12.17-15.36.57:353][167]LogWorld: Bringing up level for play took: 0.002929
+[2018.12.17-15.36.57:378][167]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map 0.721
+[2018.12.17-15.36.57:380][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.36.57:935][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.36.57:936][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.36.57:950][188]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.36.57:989][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.36.57:989][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.36.58:041][189]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.17-15.36.59:204][250]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (POI_Home)
+[2018.12.17-15.37.01:441][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.37.01:524][386]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.37.01:534][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.01:534][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.37.01:535][386]PIE: New page: PIE session: Map (17 Dec 2018 15:37:01)
+[2018.12.17-15.37.01:535][386]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.37.01:538][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002876s)
+[2018.12.17-15.37.01:538][386]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.37.01:539][386]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2018.12.17-15.37.01:539][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.004082s)
+[2018.12.17-15.37.01:577][386]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.37.01:662][386]LogInit: FAudioDevice initialized.
+[2018.12.17-15.37.01:674][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.37.01:769][386]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.37.01:770][386]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.37.01
+[2018.12.17-15.37.01:770][386]LogWorld: Bringing up level for play took: 0.000733
+[2018.12.17-15.37.01:789][386]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map 1.132
+[2018.12.17-15.37.01:790][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.03:303][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.03:303][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.37.03:316][469]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.37.03:356][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.37.03:356][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.03:407][470]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.17-15.37.04:583][540]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (POI_Home)
+[2018.12.17-15.37.06:796][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.37.06:879][675]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.37.06:890][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.06:891][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.37.06:891][675]PIE: New page: PIE session: Map (17 Dec 2018 15:37:06)
+[2018.12.17-15.37.06:891][675]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.37.06:894][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002956s)
+[2018.12.17-15.37.06:895][675]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.37.06:895][675]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2018.12.17-15.37.06:895][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.004578s)
+[2018.12.17-15.37.06:932][675]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.37.07:016][675]LogInit: FAudioDevice initialized.
+[2018.12.17-15.37.07:026][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.37.07:130][675]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.37.07:133][675]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.37.07
+[2018.12.17-15.37.07:134][675]LogWorld: Bringing up level for play took: 0.001446
+[2018.12.17-15.37.07:153][675]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map 0.496
+[2018.12.17-15.37.07:155][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.08:165][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.08:165][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.37.08:179][726]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.37.08:219][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.37.08:220][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.08:293][727]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.17-15.37.09:246][777]LogEditorViewport: Clicking on Actor (LMB): BP_MapPOI_C (POI_Home)
+[2018.12.17-15.37.11:334][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-15.37.11:383][903]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.17-15.37.11:394][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.11:395][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-15.37.11:395][903]PIE: New page: PIE session: Map (17 Dec 2018 15:37:11)
+[2018.12.17-15.37.11:395][903]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Maps/UEDPIE_0_Map
+[2018.12.17-15.37.11:398][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003083s)
+[2018.12.17-15.37.11:398][903]LogAIModule: Creating AISystem for world Map
+[2018.12.17-15.37.11:399][903]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2018.12.17-15.37.11:399][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Maps/Map.Map to /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map (0.003886s)
+[2018.12.17-15.37.11:435][903]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-15.37.11:526][903]LogInit: FAudioDevice initialized.
+[2018.12.17-15.37.11:542][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.37.11:654][903]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.17-15.37.11:659][903]LogWorld: Bringing World /Game/SetchOnLegs/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.17-15.37.11
+[2018.12.17-15.37.11:659][903]LogWorld: Bringing up level for play took: 0.002721
+[2018.12.17-15.37.11:676][903]PIE: Play in editor start time for /Game/SetchOnLegs/Maps/UEDPIE_0_Map 1.018
+[2018.12.17-15.37.11:676][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.12:210][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.12:211][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-15.37.12:228][927]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.17-15.37.12:268][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-15.37.12:268][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/SetchOnLegs/Maps/Map.Map_C' with ClassGeneratedBy '/Game/SetchOnLegs/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.17-15.37.12:329][928]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.17-15.39.21:074][313]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Map_Auto4CB7C410D44F41B9E3416E59981773B30.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Autosaves/Game/SetchOnLegs/Maps/Map_Auto4.umap'
+[2018.12.17-15.39.21:078][313]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SetchOnLegs/Maps/Map' took 0.220
+[2018.12.17-15.39.21:078][313]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.220
+[2018.12.17-15.40.56:467][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-15.41.04:414][782]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Documents\SetchOnLegs\SetchOnLegs\Source\SpikeHome.png)
+[2018.12.17-15.41.04:423][782]LogTexture: Display: Building textures: SpikeHome (AutoDXT, 480X640)
+[2018.12.17-15.42.38:743][294]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/SpikeHomeTEx93BDBBDC4E5AF6DC2C58749F9A53ABEC.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/Map/Map/SpikeHomeTEx.uasset'
+[2018.12.17-15.42.45:178][656]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/SpikeHomeTExF3BA9D554B867151F92A0D9D53A3F0C8.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Sprites/Map/Map/SpikeHomeTEx.uasset'
+[2018.12.17-15.42.51:230][999]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.17-15.42.53:487][999]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.256 s
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: 
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: Found circular redirect from /Game/SetchOnLegs/Sprites/Map/Map/SpikeHomeTEx.SpikeHomeTEx to /Game/SetchOnLegs/Sprites/Map/Map/SpikeHomeTex.SpikeHomeTex! Returning None instead
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: Stack: 
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1e22cb14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1e1ee67a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f522e239 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f521f985 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f51e6655 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f522dd77 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f3f42ea5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f3faeb7d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f3fffda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f3f1cc8d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ff9f3efde19 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1d4fbda2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1d4cda29 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1d4dba61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1d4dd23b UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1d45780d UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1d24694c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1d2c697c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa1d2b9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa4d44daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa4d440de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa4d4501eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa4d43ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa704fca66 USER32.dll!UnknownFunction []
+[2018.12.17-15.42.53:487][999]LogOutputDevice: Error: [Callstack] 0x00007ffa704fc582 USER32.dll!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: [Callstack] 0x00007ffa4d451746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: [Callstack] 0x00007ff645d15546 UE4Editor.exe!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: [Callstack] 0x00007ff645d2596c UE4Editor.exe!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: [Callstack] 0x00007ff645d259ea UE4Editor.exe!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: [Callstack] 0x00007ff645d348da UE4Editor.exe!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: [Callstack] 0x00007ff645d3659a UE4Editor.exe!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: [Callstack] 0x00007ffa70057e94 KERNEL32.DLL!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: [Callstack] 0x00007ffa721ca251 ntdll.dll!UnknownFunction []
+[2018.12.17-15.42.53:488][999]LogOutputDevice: Error: 
+[2018.12.17-15.42.53:496][999]LogStats:                SubmitErrorReport -  0.000 s
