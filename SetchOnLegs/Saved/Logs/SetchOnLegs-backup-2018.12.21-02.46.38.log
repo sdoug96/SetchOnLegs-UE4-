@@ -1,0 +1,1587 @@
+﻿Log file open, 12/21/18 01:55:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SetchOnLegs
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.390653
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.326s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2018.12.21-01.55.26:319][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2018.12.21-01.55.26:320][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2018.12.21-01.55.26:321][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2018.12.21-01.55.26:322][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.21-01.55.26:323][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.21-01.55.26:323][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.21-01.55.26:324][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.21-01.55.26:324][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.21-01.55.26:324][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.21-01.55.26:324][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.21-01.55.26:324][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.21-01.55.26:324][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.21-01.55.26:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.21-01.55.26:324][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.21-01.55.26:335][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.21-01.55.26:335][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.21-01.55.26:336][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.21-01.55.26:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.21-01.55.26:338][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.21-01.55.26:338][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.21-01.55.26:338][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.21-01.55.26:373][  0]LogHAL: Display: Platform has ~ 16 GB [17039638528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.21-01.55.26:373][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.21-01.55.26:374][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.21-01.55.26:374][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.21-01.55.26:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.21-01.55.26:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.21-01.55.26:376][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-01.55.26:377][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.21-01.55.26:377][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.21-01.55.26:384][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.21-01.55.26:384][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Config/Windows/Engine.ini]
+[2018.12.21-01.55.26:384][  0]LogInit: Computer: DESKTOP-PFPGD1F
+[2018.12.21-01.55.26:384][  0]LogInit: User: User
+[2018.12.21-01.55.26:384][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.21-01.55.26:384][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.21-01.55.26:385][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.21-01.55.26:385][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.21-01.55.26:385][  0]LogMemory: Process Physical Memory: 104.64 MB used, 104.64 MB peak
+[2018.12.21-01.55.26:385][  0]LogMemory: Process Virtual Memory: 89.73 MB used, 89.73 MB peak
+[2018.12.21-01.55.26:385][  0]LogMemory: Physical Memory: 5827.73 MB used,  10422.54 MB free, 16250.27 MB total
+[2018.12.21-01.55.26:385][  0]LogMemory: Virtual Memory: 4648.36 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.21-01.55.27:726][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.21-01.55.27:726][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.21-01.55.27:726][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.21-01.55.28:451][  0]LogStreaming: Display: Took  0.725s to InitEngineTextLocalization.
+[2018.12.21-01.55.28:452][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.21-01.55.28:602][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.21-01.55.28:602][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.21-01.55.29:794][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.21-01.55.29:794][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.21-01.55.30:250][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.12.21-01.55.30:250][  0]LogD3D11RHI:       4018/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.21-01.55.30:453][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.21-01.55.30:453][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.21-01.55.30:474][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.21-01.55.30:474][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.21-01.55.30:475][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.21-01.55.30:543][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.21-01.55.30:543][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.12.21-01.55.30:543][  0]LogWindows: EnumDisplayDevices:
+[2018.12.21-01.55.30:544][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.21-01.55.30:544][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.21-01.55.30:545][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.21-01.55.30:546][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.12.21-01.55.30:547][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.12.21-01.55.30:547][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.12.21-01.55.30:547][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.12.21-01.55.30:547][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.12.21-01.55.30:547][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2018.12.21-01.55.30:624][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.21-01.55.30:656][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.21-01.55.31:280][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.21-01.55.31:319][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.21-01.55.31:417][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.21-01.55.31:484][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.21-01.55.31:549][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.21-01.55.31:611][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.21-01.55.31:692][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.21-01.55.31:768][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.21-01.55.31:811][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.21-01.55.32:044][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:045][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-01.55.32:066][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.21-01.55.32:297][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.21-01.55.32:297][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.21-01.55.32:420][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.21-01.55.32:420][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.21-01.55.32:511][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.21-01.55.32:586][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.21-01.55.32:676][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.21-01.55.32:783][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.21-01.55.32:990][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.21-01.55.32:990][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.21-01.55.32:990][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.21-01.55.34:221][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Intermediate/Shaders/WorkingDirectory/4384/).
+[2018.12.21-01.55.34:222][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/84247FE04732829E072D1FB06F70525C/'.
+[2018.12.21-01.55.34:227][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.21-01.55.34:228][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.21-01.55.34:228][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.21-01.55.34:229][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.21-01.55.35:718][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.21-01.55.35:780][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.21-01.55.35:780][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.21-01.55.35:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.21-01.55.35:780][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.21-01.55.35:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.21-01.55.35:780][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.21-01.55.35:797][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.21-01.55.35:797][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.21-01.55.35:797][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.21-01.55.35:810][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.21-01.55.35:810][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.21-01.55.35:810][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.21-01.55.35:880][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.21-01.55.35:885][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.21-01.55.35:900][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.21-01.55.36:928][  0]LogAssetRegistry: FAssetRegistry took 0.0356 seconds to start up
+[2018.12.21-01.55.37:330][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.21-01.55.37:807][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.21-01.55.37:862][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.21-01.55.37:862][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.21-01.55.37:862][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.21-01.55.37:862][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.21-01.55.37:887][  0]LogNetVersion: SetchOnLegs 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4021931193)
+[2018.12.21-01.55.38:847][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.202079 seconds
+[2018.12.21-01.55.38:859][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.21-01.55.38:859][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.21-01.55.38:859][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.21-01.55.46:319][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.21-01.55.46:358][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.21-01.55.52:683][  0]SourceControl: Source control is disabled
+[2018.12.21-01.55.52:684][  0]SourceControl: Source control is disabled
+[2018.12.21-01.55.52:718][  0]SourceControl: Source control is disabled
+[2018.12.21-01.55.52:738][  0]SourceControl: Source control is disabled
+[2018.12.21-01.55.54:403][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.21-01.55.54:659][  0]LogOcInput: OculusInput pre-init called
+[2018.12.21-01.55.55:211][  0]LogEngine: Initializing Engine...
+[2018.12.21-01.55.55:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.21-01.55.55:224][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.21-01.55.55:224][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.21-01.55.55:224][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.21-01.55.55:224][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.21-01.55.55:735][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.21-01.55.55:775][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.21-01.55.55:815][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-01.55.55:940][  0]LogInit: FAudioDevice initialized.
+[2018.12.21-01.55.55:940][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.21-01.55.56:159][  0]LogDerivedDataCache: Saved boot cache 0.22s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.21-01.55.56:172][  0]LogInit: Texture streaming: Enabled
+[2018.12.21-01.55.56:269][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.21-01.55.56:309][  0]LogInit: Transaction tracking system initialized
+[2018.12.21-01.55.56:458][  0]BlueprintLog: New page: Editor Load
+[2018.12.21-01.55.57:308][  0]LocalizationService: Localization service is disabled
+[2018.12.21-01.55.58:644][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/' took 0.03s
+[2018.12.21-01.55.58:644][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.21-01.55.58:644][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.21-01.55.58:645][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.21-01.55.58:645][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.21-01.55.58:645][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.21-01.55.58:645][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.21-01.55.58:645][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.21-01.55.59:633][  0]SourceControl: Source control is disabled
+[2018.12.21-01.55.59:633][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/HinceInHell.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.21-01.55.59:634][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Maps/HinceInHell.umap'
+[2018.12.21-01.55.59:634][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.21-01.55.59:634][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2018.12.21-01.55.59:634][  0]LogFileHelpers: Loading map 'HinceInHell' took 0.001
+[2018.12.21-01.55.59:816][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-01.55.59:829][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-01.55.59:842][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-01.55.59:852][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-01.55.59:894][  0]LogCollectionManager: Loaded 0 collections in 0.004589 seconds
+[2018.12.21-01.55.59:914][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Collections/' took 0.01s
+[2018.12.21-01.55.59:914][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/Developers/User/Collections/' took 0.00s
+[2018.12.21-01.55.59:914][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/Collections/' took 0.00s
+[2018.12.21-01.55.59:914][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.21-01.55.59:934][  0]LogContentBrowser: Native class hierarchy populated in 0.0196 seconds. Added 2652 classes and 622 folders.
+[2018.12.21-01.55.59:954][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0078 seconds. Added 0 classes and 0 folders.
+[2018.12.21-01.55.59:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:976][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:978][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:993][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.55.59:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-01.56.00:158][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0097 seconds. Added 0 classes and 0 folders.
+[2018.12.21-01.56.00:170][  0]LogSlate: Took 0.002091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.21-01.56.00:182][  0]LogSlate: Took 0.001532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.21-01.56.00:186][  0]LogSlate: Took 0.001181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.21-01.56.00:249][  0]LogRenderer: Reallocating scene render targets to support 984x452 Format 10 NumSamples 1 (Frame:1).
+[2018.12.21-01.56.00:432][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0079 seconds. Added 0 classes and 0 folders.
+[2018.12.21-01.56.00:432][  0]LogLoad: (Engine Initialization) Total time: 40.65 seconds
+[2018.12.21-01.56.00:432][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.21-01.56.00:486][  0]LogAssetRegistry: Asset discovery search completed in 23.5810 seconds
+[2018.12.21-01.56.00:491][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.21-01.56.00:491][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2018.12.21-01.56.00:493][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.21-01.56.00:533][  0]LogSlate: Took 0.001532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.21-01.56.08:345][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-01.56.13:603][709]LogSlate: Took 0.001040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.21-01.56.14:259][709]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-01.56.14:279][709]LogAssetEditorManager: Opening Asset editor for World /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss
+[2018.12.21-01.56.14:308][709]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Levels/HinceInHellBoss.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.21-01.56.14:308][709]LightingResults: New page: Lighting Build
+[2018.12.21-01.56.14:318][709]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0066 seconds. Added 5 classes and 0 folders.
+[2018.12.21-01.56.14:319][709]LoadErrors: New page: Loading map: HinceInHellBoss.umap
+[2018.12.21-01.56.14:319][709]MapCheck: New page: Map Check
+[2018.12.21-01.56.14:319][709]LightingResults: New page: Lighting Build
+[2018.12.21-01.56.14:350][709]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.21-01.56.14:407][709]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.21-01.56.14:408][709]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2018.12.21-01.56.14:408][709]LogFileHelpers: Loading map 'HinceInHellBoss' took 0.100
+[2018.12.21-01.56.17:620][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-01.56.23:528][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-01.56.28:608][547]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.BP_HinceInHell
+[2018.12.21-01.56.29:373][547]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0132 seconds. Added 117 classes and 0 folders.
+[2018.12.21-01.56.30:679][547]LogSlate: Took 0.001447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.21-01.56.30:970][548]LogSlate: Took 0.001328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.21-01.57.14:082][642]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-01.57.43:658][303]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-01.57.43:689][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-01.57.43:689][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-01.57.43:689][303]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 01:57:43)
+[2018.12.21-01.57.43:704][303]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-01.57.43:719][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014598s)
+[2018.12.21-01.57.43:721][303]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-01.57.43:722][303]LogPlayLevel: PIE: World Init took: (0.002244s)
+[2018.12.21-01.57.43:722][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.017809s)
+[2018.12.21-01.57.43:828][303]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-01.57.43:982][303]LogInit: FAudioDevice initialized.
+[2018.12.21-01.57.44:005][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-01.57.44:106][303]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-01.57.44:109][303]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-01.57.44
+[2018.12.21-01.57.44:110][303]LogWorld: Bringing up level for play took: 0.001967
+[2018.12.21-01.57.44:141][303]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0080 seconds. Added 20 classes and 0 folders.
+[2018.12.21-01.57.44:145][303]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 1.188
+[2018.12.21-01.57.44:145][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-01.57.44:364][303]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.21-01.57.46:356][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-01.57.46:357][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-01.57.46:380][403]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-01.57.46:427][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-01.57.46:428][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-01.57.46:689][404]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.21-01.57.51:950][487]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-01.57.51:968][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-01.57.51:968][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-01.57.51:968][487]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 01:57:51)
+[2018.12.21-01.57.51:969][487]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-01.57.51:973][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004085s)
+[2018.12.21-01.57.51:973][487]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-01.57.51:973][487]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.12.21-01.57.51:973][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.004857s)
+[2018.12.21-01.57.52:020][487]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-01.57.52:134][487]LogInit: FAudioDevice initialized.
+[2018.12.21-01.57.52:163][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-01.57.52:267][487]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-01.57.52:269][487]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-01.57.52
+[2018.12.21-01.57.52:270][487]LogWorld: Bringing up level for play took: 0.001735
+[2018.12.21-01.57.52:293][487]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss -0.663
+[2018.12.21-01.57.52:293][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-01.59.05:403][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-01.59.05:403][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-01.59.05:429][332]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-01.59.05:483][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-01.59.05:483][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-01.59.05:795][333]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.21-02.00.19:836][557]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.00.19:891][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.00.19:892][557]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.21-02.00.19:943][557]LogPlayLevel: [PlayLevel] Compiling BP_HinceInHell before play...
+[2018.12.21-02.00.20:552][557]LogPlayLevel: PlayLevel: Blueprint regeneration took 660 ms (1 blueprints)
+[2018.12.21-02.00.20:552][557]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:00:20)
+[2018.12.21-02.00.20:553][557]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.00.20:560][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006996s)
+[2018.12.21-02.00.20:561][557]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.00.20:562][557]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2018.12.21-02.00.20:562][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.008502s)
+[2018.12.21-02.00.20:611][557]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.00.20:747][557]LogInit: FAudioDevice initialized.
+[2018.12.21-02.00.20:769][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.00.20:854][557]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.00.20:856][557]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.00.20
+[2018.12.21-02.00.20:857][557]LogWorld: Bringing up level for play took: 0.001796
+[2018.12.21-02.00.20:872][557]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 1.916
+[2018.12.21-02.00.20:872][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.00.51:262][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.00.51:262][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.00.51:282][312]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.00.51:322][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.00.51:323][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.00.51:438][313]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.21-02.01.40:135][ 62]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.01.42:053][128]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.01.42:112][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.01.42:112][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.01.42:112][128]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:01:42)
+[2018.12.21-02.01.42:113][128]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.01.42:120][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006899s)
+[2018.12.21-02.01.42:121][128]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.01.42:121][128]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2018.12.21-02.01.42:121][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.008313s)
+[2018.12.21-02.01.42:186][128]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.01.42:331][128]LogInit: FAudioDevice initialized.
+[2018.12.21-02.01.42:353][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.01.42:439][128]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.01.42:441][128]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.01.42
+[2018.12.21-02.01.42:442][128]LogWorld: Bringing up level for play took: 0.001814
+[2018.12.21-02.01.42:458][128]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss -0.499
+[2018.12.21-02.01.42:458][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.02.58:612][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.02.58:613][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.02.58:665][534]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.02.58:725][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.02.58:725][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.02.58:900][535]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.21-02.03.58:914][119]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.03.58:973][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.03.58:974][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.03.58:974][119]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:03:58)
+[2018.12.21-02.03.58:976][119]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.03.58:989][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012851s)
+[2018.12.21-02.03.58:991][119]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.03.58:992][119]LogPlayLevel: PIE: World Init took: (0.002569s)
+[2018.12.21-02.03.58:992][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.015937s)
+[2018.12.21-02.03.59:093][119]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.03.59:194][119]LogInit: FAudioDevice initialized.
+[2018.12.21-02.03.59:203][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.03.59:295][119]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.03.59:297][119]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.03.59
+[2018.12.21-02.03.59:298][119]LogWorld: Bringing up level for play took: 0.002223
+[2018.12.21-02.03.59:317][119]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.361
+[2018.12.21-02.03.59:317][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.06:624][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.06:624][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.05.06:680][950]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.05.06:771][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.05.06:772][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.06:921][951]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.21-02.05.08:716][ 52]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.05.08:762][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.08:763][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.05.08:763][ 52]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:05:08)
+[2018.12.21-02.05.08:764][ 52]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.05.08:776][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011949s)
+[2018.12.21-02.05.08:778][ 52]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.05.08:778][ 52]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2018.12.21-02.05.08:778][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.014080s)
+[2018.12.21-02.05.08:876][ 52]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.05.09:007][ 52]LogInit: FAudioDevice initialized.
+[2018.12.21-02.05.09:029][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.05.09:125][ 52]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.05.09:131][ 52]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.05.09
+[2018.12.21-02.05.09:133][ 52]LogWorld: Bringing up level for play took: 0.004795
+[2018.12.21-02.05.09:164][ 52]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.207
+[2018.12.21-02.05.09:165][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.11:997][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-02.05.12:224][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.12:224][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.05.12:243][225]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.05.12:288][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.05.12:288][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.12:435][226]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.21-02.05.13:094][265]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.05.13:144][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.13:144][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.05.13:145][265]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:05:13)
+[2018.12.21-02.05.13:146][265]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.05.13:158][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011598s)
+[2018.12.21-02.05.13:159][265]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.05.13:160][265]LogPlayLevel: PIE: World Init took: (0.001874s)
+[2018.12.21-02.05.13:160][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.013876s)
+[2018.12.21-02.05.13:257][265]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.05.13:406][265]LogInit: FAudioDevice initialized.
+[2018.12.21-02.05.13:428][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.05.13:525][265]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.05.13:527][265]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.05.13
+[2018.12.21-02.05.13:528][265]LogWorld: Bringing up level for play took: 0.001775
+[2018.12.21-02.05.13:546][265]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.589
+[2018.12.21-02.05.13:547][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.21:118][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.21:118][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.05.21:140][693]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.05.21:215][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.05.21:215][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.21:349][694]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.21-02.05.33:063][322]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.05.34:859][374]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.05.34:934][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.34:936][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.05.34:936][374]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:05:34)
+[2018.12.21-02.05.34:936][374]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.05.34:947][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011174s)
+[2018.12.21-02.05.34:949][374]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.05.34:949][374]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2018.12.21-02.05.34:949][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.013259s)
+[2018.12.21-02.05.35:031][374]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.05.35:160][374]LogInit: FAudioDevice initialized.
+[2018.12.21-02.05.35:181][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.05.35:273][374]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.05.35:276][374]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.05.35
+[2018.12.21-02.05.35:276][374]LogWorld: Bringing up level for play took: 0.002762
+[2018.12.21-02.05.35:293][374]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.337
+[2018.12.21-02.05.35:294][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.46:873][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.46:873][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.05.46:917][ 20]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.05.46:981][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.05.46:981][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.05.47:295][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.21-02.06.28:764][315]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.06.30:847][381]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.06.30:923][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.06.30:923][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.06.30:923][381]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:06:30)
+[2018.12.21-02.06.30:924][381]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.06.30:936][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011117s)
+[2018.12.21-02.06.30:937][381]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.06.30:937][381]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2018.12.21-02.06.30:938][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.013359s)
+[2018.12.21-02.06.31:040][381]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.06.31:156][381]LogInit: FAudioDevice initialized.
+[2018.12.21-02.06.31:169][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.06.31:272][381]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.06.31:278][381]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.06.31
+[2018.12.21-02.06.31:280][381]LogWorld: Bringing up level for play took: 0.005393
+[2018.12.21-02.06.31:302][381]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.345
+[2018.12.21-02.06.31:303][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.06.52:039][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.06.52:039][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.06.52:059][545]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.06.52:107][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.06.52:107][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.06.52:312][546]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.21-02.11.04:939][362]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.11.06:535][396]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.11.06:638][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.11.06:639][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.11.06:639][396]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:11:06)
+[2018.12.21-02.11.06:641][396]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.11.06:653][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011382s)
+[2018.12.21-02.11.06:654][396]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.11.06:655][396]LogPlayLevel: PIE: World Init took: (0.001951s)
+[2018.12.21-02.11.06:655][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.013993s)
+[2018.12.21-02.11.06:724][396]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.11.06:814][396]LogInit: FAudioDevice initialized.
+[2018.12.21-02.11.06:823][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.11.06:906][396]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.11.06:911][396]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.11.06
+[2018.12.21-02.11.06:913][396]LogWorld: Bringing up level for play took: 0.004114
+[2018.12.21-02.11.06:936][396]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss -0.02
+[2018.12.21-02.11.06:937][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.11.38:165][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.11.38:165][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.11.38:193][213]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.11.38:251][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.11.38:251][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.11.38:422][214]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.21-02.12.05:653][820]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.12.05:810][820]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.21-02.12.05:810][820]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.21-02.12.06:098][820]LogBlueprint: Warning: [Compiler BP_HinceInHell] [1006.32] Compile of BP_HinceInHell failed. 2 Fatal Issue(s) 0 Warning(s) [in 445 ms] (/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.BP_HinceInHell)
+[2018.12.21-02.12.53:439][574]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHellBoss_Auto19387A96D467221E1456488A2DDCC52A7.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Autosaves/Game/SetchOnLegs/Levels/HinceInHellBoss_Auto1.umap'
+[2018.12.21-02.12.53:449][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SetchOnLegs/Levels/HinceInHellBoss' took 0.501
+[2018.12.21-02.12.53:449][574]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.501
+[2018.12.21-02.12.53:453][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell] ([1] browsable assets)...
+[2018.12.21-02.12.53:453][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell]
+[2018.12.21-02.12.53:639][574]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/BP_HinceInHell_Auto1BE8BD8F840F836BD0B3B2FAB35257ECD.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/Autosaves/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell_Auto1.uasset'
+[2018.12.21-02.12.53:642][574]LogFileHelpers: Auto-saving content packages took 0.190
+[2018.12.21-02.15.06:571][495]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.15.06:613][495]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.21-02.15.06:613][495]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.21-02.15.06:816][495]LogBlueprint: Warning: [Compiler BP_HinceInHell] [1187.03] Compile of BP_HinceInHell failed. 2 Fatal Issue(s) 0 Warning(s) [in 244 ms] (/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.BP_HinceInHell)
+[2018.12.21-02.16.28:639][257]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.16.28:687][257]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.21-02.16.28:688][257]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.21-02.16.28:906][257]LogBlueprint: Warning: [Compiler BP_HinceInHell] [1269.12] Compile of BP_HinceInHell failed. 2 Fatal Issue(s) 0 Warning(s) [in 267 ms] (/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.BP_HinceInHell)
+[2018.12.21-02.17.50:185][826]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.17.53:138][980]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.17.53:172][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.17.53:172][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.17.53:172][980]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:17:53)
+[2018.12.21-02.17.53:173][980]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.17.53:177][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004410s)
+[2018.12.21-02.17.53:178][980]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.17.53:178][980]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2018.12.21-02.17.53:178][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.005386s)
+[2018.12.21-02.17.53:215][980]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.17.53:296][980]LogInit: FAudioDevice initialized.
+[2018.12.21-02.17.53:304][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.17.53:432][980]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.17.53:434][980]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.17.53
+[2018.12.21-02.17.53:435][980]LogWorld: Bringing up level for play took: 0.001900
+[2018.12.21-02.17.53:450][980]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.494
+[2018.12.21-02.17.53:451][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.18.35:314][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.18.35:315][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.18.35:337][468]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.18.35:394][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.18.35:394][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.18.35:550][469]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.21-02.19.02:022][ 17]LogEditorTransaction: Undo Create Pin Link
+[2018.12.21-02.20.00:053][152]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.20.00:092][152]LogBlueprint: Error: [Compiler BP_HinceInHell] The type of  Object  is undetermined.  Connect something to  Cast To BP_Spike  to imply a specific type.
+[2018.12.21-02.20.00:093][152]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.12.21-02.20.00:248][152]LogBlueprint: Warning: [Compiler BP_HinceInHell] [1480.47] Compile of BP_HinceInHell failed. 2 Fatal Issue(s) 0 Warning(s) [in 194 ms] (/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.BP_HinceInHell)
+[2018.12.21-02.20.08:873][577]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.20.08:913][577]LogBlueprint: Warning: [Compiler BP_HinceInHell] 'BP Spike' does not inherit from 'Player Controller' ( Cast To BP_Spike  would always fail).
+[2018.12.21-02.20.09:069][577]LogBlueprint: Warning: [Compiler BP_HinceInHell] [1489.29] Compile of BP_HinceInHell successful, but with 1 Warning(s) [in 196 ms] (/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.BP_HinceInHell)
+[2018.12.21-02.20.22:872][300]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.20.24:895][395]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.20.24:929][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.20.24:929][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.20.24:929][395]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:20:24)
+[2018.12.21-02.20.24:929][395]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.20.24:933][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003842s)
+[2018.12.21-02.20.24:934][395]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.20.24:934][395]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2018.12.21-02.20.24:934][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.004642s)
+[2018.12.21-02.20.24:967][395]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.20.25:056][395]LogInit: FAudioDevice initialized.
+[2018.12.21-02.20.25:076][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.20.25:166][395]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.20.25:168][395]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.20.25
+[2018.12.21-02.20.25:169][395]LogWorld: Bringing up level for play took: 0.001908
+[2018.12.21-02.20.25:184][395]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.228
+[2018.12.21-02.20.25:185][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.20.51:334][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.20.51:334][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.20.51:356][878]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.20.51:412][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.20.51:412][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.20.51:726][879]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.21-02.21.07:089][705]LogEditorTransaction: Undo Delete current selection
+[2018.12.21-02.21.07:694][723]LogEditorTransaction: Undo Delete current selection
+[2018.12.21-02.21.09:272][786]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.21.21:614][417]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.21.21:651][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.21.21:651][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.21.21:651][417]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:21:21)
+[2018.12.21-02.21.21:652][417]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.21.21:657][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004938s)
+[2018.12.21-02.21.21:657][417]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.21.21:658][417]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2018.12.21-02.21.21:658][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.005908s)
+[2018.12.21-02.21.21:709][417]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.21.21:806][417]LogInit: FAudioDevice initialized.
+[2018.12.21-02.21.21:827][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.21.21:914][417]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.21.21:917][417]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 60) at 2018.12.21-02.21.21
+[2018.12.21-02.21.21:918][417]LogWorld: Bringing up level for play took: 0.002279
+[2018.12.21-02.21.21:933][417]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.977
+[2018.12.21-02.21.21:935][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.21.36:913][282]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.12.21-02.21.52:505][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.21.52:505][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.21.52:553][313]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.21.52:629][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.21.52:629][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.21.52:768][314]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.21-02.22.29:130][218]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.22.29:174][218]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.21-02.22.29:175][218]LogBlueprint: Error: [Compiler BP_HinceInHell] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.21-02.22.29:331][218]LogBlueprint: Warning: [Compiler BP_HinceInHell] [1629.55] Compile of BP_HinceInHell failed. 2 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.BP_HinceInHell)
+[2018.12.21-02.22.29:934][243]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/BP_HinceInHellD0676933423EFCE106F7FABF5DF23B01.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.uasset'
+[2018.12.21-02.22.46:372][324]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.22.46:407][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.22.46:407][324]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.21-02.22.46:423][324]LogPlayLevel: [PlayLevel] Compiling BP_HinceInHell before play...
+[2018.12.21-02.22.46:659][324]LogPlayLevel: PlayLevel: Blueprint regeneration took 252 ms (1 blueprints)
+[2018.12.21-02.22.46:659][324]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:22:46)
+[2018.12.21-02.22.46:659][324]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.22.46:663][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003119s)
+[2018.12.21-02.22.46:663][324]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.22.46:663][324]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2018.12.21-02.22.46:664][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.004059s)
+[2018.12.21-02.22.46:693][324]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.22.46:771][324]LogInit: FAudioDevice initialized.
+[2018.12.21-02.22.46:778][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.22.46:849][324]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.22.46:851][324]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.22.46
+[2018.12.21-02.22.46:852][324]LogWorld: Bringing up level for play took: 0.001757
+[2018.12.21-02.22.46:867][324]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss -0.089
+[2018.12.21-02.22.46:868][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.23.00:263][389]LogBlueprintUserMessages: [BP_HinceInHell_2] Hello
+[2018.12.21-02.23.11:623][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.23.11:624][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.23.11:665][174]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.23.11:716][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.23.11:716][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.23.11:871][175]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.21-02.24.01:955][201]Cmd: DELETE
+[2018.12.21-02.24.01:955][201]Cmd: ACTOR DELETE
+[2018.12.21-02.24.01:968][201]LogEditorActor: Deleted Actor: BP_HinceInHell_C
+[2018.12.21-02.24.02:053][201]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2018.12.21-02.24.07:230][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-02.24.08:218][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-02.24.08:627][785]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHellBoss3FD95A11465E9076FDAB36B52CD23478.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Levels/HinceInHellBoss.umap'
+[2018.12.21-02.24.08:694][785]LogFileHelpers: Saving map 'HinceInHellBoss' took 0.460
+[2018.12.21-02.24.09:035][785]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/BP_HinceInHell67CFBB1941C18F6DD1C34B9947F87523.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.uasset'
+[2018.12.21-02.24.10:279][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-02.28.19:671][233]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.28.21:707][328]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.28.21:744][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.28.21:744][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.28.21:744][328]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:28:21)
+[2018.12.21-02.28.21:744][328]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.28.21:749][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004941s)
+[2018.12.21-02.28.21:750][328]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.28.21:750][328]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.12.21-02.28.21:750][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.005909s)
+[2018.12.21-02.28.21:790][328]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.28.21:870][328]LogInit: FAudioDevice initialized.
+[2018.12.21-02.28.21:878][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.28.21:956][328]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.28.21:961][328]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.28.21
+[2018.12.21-02.28.21:962][328]LogWorld: Bringing up level for play took: 0.004313
+[2018.12.21-02.28.21:982][328]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 1.027
+[2018.12.21-02.28.21:983][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.28.37:534][505]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.12.21-02.29.08:595][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.29.08:595][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.29.08:622][626]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.29.08:682][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.29.08:682][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.29.08:862][627]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.21-02.30.10:687][412]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.30.12:567][494]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.30.12:601][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.30.12:601][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.30.12:601][494]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:30:12)
+[2018.12.21-02.30.12:601][494]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.30.12:605][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003994s)
+[2018.12.21-02.30.12:606][494]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.30.12:606][494]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2018.12.21-02.30.12:606][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.005591s)
+[2018.12.21-02.30.12:643][494]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.30.12:721][494]LogInit: FAudioDevice initialized.
+[2018.12.21-02.30.12:728][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.30.12:829][494]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.30.12:834][494]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.30.12
+[2018.12.21-02.30.12:835][494]LogWorld: Bringing up level for play took: 0.004259
+[2018.12.21-02.30.12:856][494]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss -0.1
+[2018.12.21-02.30.12:858][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.30.52:987][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.30.52:987][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.30.53:008][187]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.30.53:065][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.30.53:065][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.30.53:405][188]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.21-02.31.25:891][272]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.31.26:974][343]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.31.27:007][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.31.27:007][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.31.27:007][343]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:31:27)
+[2018.12.21-02.31.27:007][343]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.31.27:011][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003681s)
+[2018.12.21-02.31.27:012][343]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.31.27:012][343]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2018.12.21-02.31.27:012][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.004485s)
+[2018.12.21-02.31.27:050][343]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.31.27:138][343]LogInit: FAudioDevice initialized.
+[2018.12.21-02.31.27:153][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.31.27:260][343]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.31.27:265][343]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.31.27
+[2018.12.21-02.31.27:267][343]LogWorld: Bringing up level for play took: 0.004397
+[2018.12.21-02.31.27:287][343]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.331
+[2018.12.21-02.31.27:288][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.31.49:043][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.31.49:043][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.31.49:065][998]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.31.49:121][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.31.49:121][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.31.49:396][999]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.21-02.33.11:940][858]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.33.13:227][910]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.33.13:264][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.33.13:265][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.33.13:265][910]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:33:13)
+[2018.12.21-02.33.13:265][910]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.33.13:270][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003992s)
+[2018.12.21-02.33.13:270][910]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.33.13:271][910]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2018.12.21-02.33.13:271][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.005482s)
+[2018.12.21-02.33.13:303][910]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.33.13:399][910]LogInit: FAudioDevice initialized.
+[2018.12.21-02.33.13:420][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.33.13:515][910]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.33.13:516][910]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.33.13
+[2018.12.21-02.33.13:517][910]LogWorld: Bringing up level for play took: 0.001818
+[2018.12.21-02.33.13:533][910]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.577
+[2018.12.21-02.33.13:534][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.33.59:144][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.33.59:144][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.33.59:167][774]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.33.59:230][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.33.59:230][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.33.59:460][775]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.21-02.35.17:177][383]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.35.17:212][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.35.17:212][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.35.17:212][383]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:35:17)
+[2018.12.21-02.35.17:213][383]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.35.17:217][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004049s)
+[2018.12.21-02.35.17:217][383]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.35.17:217][383]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.12.21-02.35.17:217][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.004918s)
+[2018.12.21-02.35.17:254][383]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.35.17:375][383]LogInit: FAudioDevice initialized.
+[2018.12.21-02.35.17:397][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.35.17:489][383]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.35.17:491][383]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.35.17
+[2018.12.21-02.35.17:492][383]LogWorld: Bringing up level for play took: 0.001739
+[2018.12.21-02.35.17:508][383]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.552
+[2018.12.21-02.35.17:509][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.35.52:548][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.35.52:548][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.35.52:589][853]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.35.52:680][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.35.52:680][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.35.52:857][854]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.21-02.37.33:949][166]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.38.45:766][826]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.39.12:807][506]LogEditorTransaction: Undo Move Node
+[2018.12.21-02.39.25:235][214]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.40.03:697][841]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.40.03:733][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.40.03:734][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.40.03:734][841]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:40:03)
+[2018.12.21-02.40.03:734][841]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.40.03:738][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003933s)
+[2018.12.21-02.40.03:739][841]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.40.03:739][841]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2018.12.21-02.40.03:739][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.004843s)
+[2018.12.21-02.40.03:773][841]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.40.03:882][841]LogInit: FAudioDevice initialized.
+[2018.12.21-02.40.03:904][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.40.03:979][841]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.40.03:981][841]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.40.03
+[2018.12.21-02.40.03:982][841]LogWorld: Bringing up level for play took: 0.001963
+[2018.12.21-02.40.03:997][841]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 1.04
+[2018.12.21-02.40.03:997][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.40.32:595][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.40.32:595][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.40.32:630][734]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.40.32:692][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.40.32:692][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.40.32:833][735]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.21-02.41.26:695][697]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.41.26:732][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.41.26:732][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.41.26:732][697]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:41:26)
+[2018.12.21-02.41.26:732][697]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.41.26:737][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004037s)
+[2018.12.21-02.41.26:737][697]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.41.26:737][697]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.12.21-02.41.26:737][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.004963s)
+[2018.12.21-02.41.26:776][697]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.41.26:868][697]LogInit: FAudioDevice initialized.
+[2018.12.21-02.41.26:886][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.41.26:978][697]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.41.26:981][697]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.41.26
+[2018.12.21-02.41.26:982][697]LogWorld: Bringing up level for play took: 0.002659
+[2018.12.21-02.41.26:998][697]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss 0.042
+[2018.12.21-02.41.26:998][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.41.43:749][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.41.43:749][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.41.43:775][615]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.41.43:834][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.41.43:834][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.41.44:126][616]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.21-02.42.02:462][790]LogEditorTransaction: Undo Move Node
+[2018.12.21-02.42.03:478][827]LogEditorTransaction: Undo Move Node
+[2018.12.21-02.42.04:609][868]LogEditorTransaction: Undo Move Node
+[2018.12.21-02.42.05:539][894]LogEditorTransaction: Undo Move Node
+[2018.12.21-02.42.06:101][903]LogEditorTransaction: Undo Move Node
+[2018.12.21-02.42.06:434][904]LogEditorTransaction: Undo Move Node
+[2018.12.21-02.42.07:142][944]LogEditorTransaction: Undo Move Node
+[2018.12.21-02.42.30:271][245]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.42.31:019][246]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/BP_HinceInHellD012C0444CF2D08DC6273080C3BB580B.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.uasset'
+[2018.12.21-02.43.07:847][588]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.43.17:869][162]BlueprintLog: New page: Compile BP_HinceInHell
+[2018.12.21-02.43.18:532][185]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.21-02.43.18:571][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.43.18:571][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-02.43.18:571][185]PIE: New page: PIE session: HinceInHellBoss (21 Dec 2018 02:43:18)
+[2018.12.21-02.43.18:571][185]LogPlayLevel: Creating play world package: /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss
+[2018.12.21-02.43.18:575][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003887s)
+[2018.12.21-02.43.18:575][185]LogAIModule: Creating AISystem for world HinceInHellBoss
+[2018.12.21-02.43.18:576][185]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.12.21-02.43.18:576][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss to /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss (0.004749s)
+[2018.12.21-02.43.18:612][185]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-02.43.18:690][185]LogInit: FAudioDevice initialized.
+[2018.12.21-02.43.18:697][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.43.18:779][185]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.21-02.43.18:784][185]LogWorld: Bringing World /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss.HinceInHellBoss up for play (max tick rate 0) at 2018.12.21-02.43.18
+[2018.12.21-02.43.18:786][185]LogWorld: Bringing up level for play took: 0.004130
+[2018.12.21-02.43.18:808][185]PIE: Play in editor start time for /Game/SetchOnLegs/Levels/UEDPIE_0_HinceInHellBoss -0.148
+[2018.12.21-02.43.18:810][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.43.43:046][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.43.43:047][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-02.43.43:068][562]LogSlate: Window 'SetchOnLegs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.21-02.43.43:130][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-02.43.43:130][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel' has LevelScriptBlueprint '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss' with GeneratedClass '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss_C' with ClassGeneratedBy '/Game/SetchOnLegs/Levels/HinceInHellBoss.HinceInHellBoss:PersistentLevel.HinceInHellBoss'
+[2018.12.21-02.43.43:288][563]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.21-02.46.25:084][169]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/HinceInHellBoss7467E14A4139C101D96FF0A952516422.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Levels/HinceInHellBoss.umap'
+[2018.12.21-02.46.25:123][169]LogFileHelpers: Saving map 'HinceInHellBoss' took 0.304
+[2018.12.21-02.46.25:382][169]LogSavePackage: Moving '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Saved/BP_HinceInHell2D28D3654C78483C1D9CB58C6443A30C.tmp' to '../../../../../../Users/User/Documents/SetchOnLegs/SetchOnLegs/Content/SetchOnLegs/Blueprint/HinceInHell/BP_HinceInHell.uasset'
+[2018.12.21-02.46.34:411][790]LogSlate: Window 'SetchOnLegs - Unreal Editor' being destroyed
+[2018.12.21-02.46.34:694][791]Cmd: QUIT_EDITOR
+[2018.12.21-02.46.35:177][791]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.21-02.46.35:218][791]LogExit: Preparing to exit.
+[2018.12.21-02.46.36:216][791]LogExit: Editor shut down
+[2018.12.21-02.46.36:217][791]LogExit: Transaction tracking system shut down
+[2018.12.21-02.46.36:462][791]LogExit: Object subsystem successfully closed.
+[2018.12.21-02.46.36:504][791]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.21-02.46.36:511][791]LogD3D11RHI: Shutdown
+[2018.12.21-02.46.36:511][791]LogD3D11RHI: CleanupD3DDevice
+[2018.12.21-02.46.36:514][791]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.21-02.46.36:645][791]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2018.12.21-02.46.36:645][791]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2018.12.21-02.46.36:646][791]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2018.12.21-02.46.36:646][791]LogModuleManager: Shutting down and abandoning module StatsViewer (622)
+[2018.12.21-02.46.36:646][791]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (620)
+[2018.12.21-02.46.36:646][791]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2018.12.21-02.46.36:647][791]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2018.12.21-02.46.36:647][791]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2018.12.21-02.46.36:647][791]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2018.12.21-02.46.36:647][791]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.21-02.46.36:648][791]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.21-02.46.36:649][791]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.21-02.46.36:650][791]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.21-02.46.36:651][791]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.21-02.46.36:651][791]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.21-02.46.36:651][791]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.21-02.46.36:651][791]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.21-02.46.36:651][791]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.21-02.46.36:651][791]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.21-02.46.36:651][791]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.21-02.46.36:652][791]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.21-02.46.36:652][791]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.21-02.46.36:652][791]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.21-02.46.36:652][791]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.21-02.46.36:652][791]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.21-02.46.37:688][791]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.21-02.46.37:688][791]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.21-02.46.37:688][791]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.21-02.46.37:688][791]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.21-02.46.37:689][791]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.21-02.46.37:689][791]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.21-02.46.37:689][791]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.21-02.46.37:689][791]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.21-02.46.37:689][791]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.21-02.46.37:689][791]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.21-02.46.37:689][791]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.21-02.46.37:690][791]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.21-02.46.37:690][791]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.21-02.46.37:690][791]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.21-02.46.37:690][791]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.21-02.46.37:690][791]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.21-02.46.37:690][791]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.21-02.46.37:691][791]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.21-02.46.37:691][791]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.21-02.46.37:691][791]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.21-02.46.37:691][791]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.21-02.46.37:692][791]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.21-02.46.37:692][791]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.21-02.46.37:748][791]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.21-02.46.37:748][791]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.21-02.46.37:748][791]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.21-02.46.37:749][791]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.21-02.46.37:749][791]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.21-02.46.37:749][791]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.21-02.46.37:750][791]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.21-02.46.37:750][791]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.21-02.46.37:750][791]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.21-02.46.37:750][791]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.21-02.46.37:764][791]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.21-02.46.37:764][791]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.21-02.46.37:768][791]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.21-02.46.37:768][791]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.21-02.46.37:768][791]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.21-02.46.37:768][791]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.21-02.46.37:769][791]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.21-02.46.37:770][791]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.21-02.46.37:770][791]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.21-02.46.37:771][791]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.21-02.46.37:771][791]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.21-02.46.37:771][791]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.21-02.46.37:783][791]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.21-02.46.37:842][791]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.21-02.46.37:851][791]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.21-02.46.37:852][791]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.21-02.46.37:853][791]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.21-02.46.37:970][791]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.21-02.46.38:111][791]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.21-02.46.38:112][791]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.21-02.46.38:112][791]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.21-02.46.38:112][791]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.21-02.46.38:113][791]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.21-02.46.38:113][791]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.21-02.46.38:113][791]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.21-02.46.38:113][791]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.21-02.46.38:113][791]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.21-02.46.38:114][791]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.21-02.46.38:114][791]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.21-02.46.38:115][791]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.21-02.46.38:121][791]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.21-02.46.38:121][791]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.21-02.46.38:121][791]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.21-02.46.38:121][791]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.21-02.46.38:121][791]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.21-02.46.38:121][791]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.21-02.46.38:121][791]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.21-02.46.38:121][791]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.21-02.46.38:122][791]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.21-02.46.38:124][791]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.21-02.46.38:125][791]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.21-02.46.38:125][791]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.21-02.46.38:125][791]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.21-02.46.38:125][791]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.21-02.46.38:192][791]LogDerivedDataCache: Shutdown
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.21-02.46.38:192][791]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.21-02.46.38:192][791]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.21-02.46.38:193][791]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.21-02.46.38:193][791]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.21-02.46.38:193][791]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.21-02.46.38:193][791]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.21-02.46.38:193][791]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.21-02.46.38:193][791]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.21-02.46.38:193][791]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.21-02.46.38:194][791]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.21-02.46.38:194][791]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.21-02.46.38:194][791]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.21-02.46.38:194][791]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.21-02.46.38:194][791]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.21-02.46.38:195][791]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.21-02.46.38:195][791]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.21-02.46.38:195][791]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.21-02.46.38:196][791]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.21-02.46.38:201][791]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.21-02.46.38:201][791]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.21-02.46.38:202][791]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.21-02.46.38:202][791]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.21-02.46.38:211][791]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.21-02.46.38:211][791]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.12.21-02.46.38:212][791]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94DD418D-4D69-A47B-1740-EDB577912D30%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=0a1e8c64450d3cba4439518ad9055c0e%7C0885b92283b94cf783857d244d4177d5%7C54045ca0-5319-49dc-a72d-55a87a618330&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.21-02.46.38:212][791]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94DD418D-4D69-A47B-1740-EDB577912D30%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=0a1e8c64450d3cba4439518ad9055c0e%7C0885b92283b94cf783857d244d4177d5%7C54045ca0-5319-49dc-a72d-55a87a618330&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.21-02.46.38:219][791]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.21-02.46.38:220][791]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.21-02.46.38:220][791]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.21-02.46.38:221][791]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.21-02.46.38:221][791]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.21-02.46.38:223][791]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.21-02.46.38:235][791]LogExit: Exiting.
+[2018.12.21-02.46.38:241][791]Log file closed, 12/21/18 02:46:38
