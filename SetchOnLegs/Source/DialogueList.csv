@@ -1,21 +1,22 @@
 ,NPC_ID,Conversation_ID,Line_ID,Dialogue
-1,1,1,1,"???: Ah, Spike my friend, it's good to see you up and about, it's been a while. Where have you been the past few years?"
+1,1,1,1,"???: Here eh, it's Spike boy, good to see you up and about, it's been a while. Where have you been the past few years?"
 2,1,1,2,Spike: I'm sorry but who are you?
 3,1,1,3,"???: Wow, you must have taken a few hits to the head! Anyways, I am Guru Connor! I was once in charge of supplying the seven realms of Predictorland with all their goods! However, since the events of a few years ago, I have taken refuge down here."
 4,1,1,4,Spike: What happened a few years ago?
-5,1,1,5,"Guru Connor: I am not really sure to be honest with you friend. One minute the sun is shining and all is well in Predictorland and the next, well... it was not pretty."
-6,1,1,6,"Guru Connor: Your home of Muir of Ord, if you can remember that, began to tremble like I'd never seen. Dark clouds formed in the sky and thunder rained down like there was no tomorrow."
-7,1,1,7,"Guru Connor: As soon as I saw this I knew something very bad was happening so I quickly gathered my things and made my way down here where I have been ever since, you are the first person I have spoken to in years!"
-8,1,1,8,Spike: I do remember my home vaguely. It was a grand place and the people were always happy.
-9,1,1,9,"Guru Connor: Yes that is how I remember Muir of Ord as well, however, it more than likely lays in ruins now."
-10,1,1,10,"Guru Connor: If you are after more information about what happened, I am afraid you have come to the wrong place friend but perhaps you could journey further to discover more. If my memory serves me correct, you can reach Greasy Grove by travelling to the surface of Hell where you came from."
+5,1,1,5,"Guru Connor: I am not really sure to be honest with you. One minute the sun is shining and all is well in Predictorland and the next, well... it was not pretty."
+6,1,1,6,"Guru Connor: The sky turned black, the ground began to tremble like I'd never seen and the citizens of Predictorland all turned extremely violent. For some reason it didn't effect me, probably cos I was so baked eh."
+7,1,1,7,"Guru Connor: Anyway, as soon as I saw this I knew something very bad was happening. So I quickly gathered my things and made my way down here where I have been ever since, you are the first person I have spoken to in years!"
+8,1,1,8,Spike: I do remember Predictorland vaguely. It was a majestic place and the people were always happy.
+9,1,1,9,Guru Connor: Yes that is how I remember it as well but it is nothing like that now. The people are evil and the environment is harsh.
+10,1,1,10,"Guru Connor: If you are after more information about what happened on that day, I am afraid you have come to the wrong place. Perhaps you could travel further to discover more. If my memory serves me correct, you can reach Greasy Grove by travelling to the surface of Hell where you came from."
 11,1,1,11,"Spike: Thanks for your help, it is nice to see a friendly face, so what have you been doing down here all these years?"
 12,1,1,12,Guru Connor: What I do best of course! Scavenging for supplies. The goods I used to sell to the citizens of Predictorland aren't much use down here so I've mainly been hunting for weapons and defenses to keep myself safe in these caves as it can get quite nasty down here.
-13,1,1,13,"Guru Connor: In fact, you can take a look at what I've found if you like and I would even consider selling some of it. Old money won't get you very far with me though, it's master balls I'm after."
-14,1,2,1,"Guru Connor: Ah, you have returned! Here's what I've got for you friend."
-15,2,1,1,
-16,2,1,2,
-17,2,1,3,
-18,2,1,4,
-19,2,1,5,
-20,2,1,6,
+13,1,1,13,"Guru Connor: In fact, you can take a look at what I've found if you like and I would even consider selling some of it. You don't seem to have anything I'm looking for at the moment but I'll give you a basic weapon for free cos I'm such a lad."
+14,1,1,14,"Guru Connor: That will at least allow you to open some chests and kill any little twats you find that try to harm you. You'll find master balls in the chest stashes I have left around Predictorland. Bring them back to me if you want to add to what I have given you as the further you travel, the deadlier your surroundings will become. I would go out and get the master balls myself or I could stay here and get stoned, what would you choose?"
+15,1,2,1,"Guru Connor: Ah, you have returned! Here's what I've got for you."
+16,2,1,1,
+17,2,1,2,
+18,2,1,3,
+19,2,1,4,
+20,2,1,5,
+21,2,1,6,
