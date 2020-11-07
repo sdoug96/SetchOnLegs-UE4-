@@ -11,12 +11,14 @@
 10,1,1,10,"Guru Connor: If you are after more information about what happened on that day, I am afraid you have come to the wrong place. Perhaps you could travel further to discover more. If my memory serves me correct, you can reach Greasy Grove by travelling to the surface of Hell where you came from."
 11,1,1,11,"Spike: Thanks for your help, it is nice to see a friendly face, so what have you been doing down here all these years?"
 12,1,1,12,Guru Connor: What I do best of course! Scavenging for supplies. The goods I used to sell to the citizens of Predictorland aren't much use down here so I've mainly been hunting for weapons and defenses to keep myself safe in these caves as it can get quite nasty down here.
-13,1,1,13,"Guru Connor: In fact, you can take a look at what I've found if you like and I would even consider selling some of it. You don't seem to have anything I'm looking for at the moment but I'll give you a basic weapon for free cos I'm such a lad."
+13,1,1,13,"Guru Connor: In fact, you can take a look at what I've found if you like and I would even consider selling some of it. You don't seem to have anything I'm looking for at the moment so I'll give you a basic weapon and a key for free cos I'm such a lad."
 14,1,1,14,"Guru Connor: That will at least allow you to open some chests and kill any little twats you find that try to harm you. You'll find master balls in the chest stashes I have left around Predictorland. Bring them back to me if you want to add to what I have given you as the further you travel, the deadlier your surroundings will become. I would go out and get the master balls myself or I could stay here and get stoned, what would you choose?"
 15,1,2,1,"Guru Connor: Ah, you have returned! Here's what I've got for you."
-16,2,1,1,
-17,2,1,2,
-18,2,1,3,
-19,2,1,4,
-20,2,1,5,
-21,2,1,6,
+16,2,1,1,???: Ahh Spike my friend! You have finally found me hiding away in the quieter areas of this mad world we have found ourselves in!
+17,2,1,2,"Spike: Sorry but a terrible event has blanked most of my mind, who are you?"
+18,2,1,3,"???: Hmmm, you are quite clearly referring to the corruption that has gripped this world! Anyhoo, they call me Mike the Mystical and I can take you to any of the seven realms of Predictorland in an instant by the power of my fairy dust!"
+19,2,1,4,Spike: Well that’s handy.
+20,2,1,5,"Mike: Yes it is! There is a catch, however. I cannot take you to a realm that I have not seen you in, so you wanna travel to a realm? You gotta find me in it first!"
+21,2,1,6,"Spike: Sounds good to me, can I travel now?"
+22,2,1,7,Mike: About time you asked! I'm gagging to get the fairy dust out!
+23,2,2,1,Mike: Hey you found me again! Where is it you'd like to go this time my friend?
